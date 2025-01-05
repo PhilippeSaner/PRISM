@@ -5,7 +5,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Vampire Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB07 Flamboyant Villain.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB07 Flamboyant Villain.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{4}{U/B}",
 	        "type": "Creature — Azra Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ02 Energy Drainer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ02 Energy Drainer.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB12 The Power of Despair.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB12 The Power of Despair.png"
 	        }
 	    },
 	    {
@@ -31,7 +31,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Bird Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB09 Nightmare's Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB09 Nightmare's Acolyte.png"
 	        },
 	        "printed names": {
 	            "en": "CB09 Nightmare's Acolyte"
@@ -42,7 +42,7 @@
 	                "en": "Nightmare's Emissary"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CNightmare's Emissary.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Nightmare's Emissary.png"
 	            },
 	            "type": "Creature — Bird Nightmare Warlock "
 	        }
@@ -53,7 +53,7 @@
 	        "mana_cost": "{2}{B/R}{B/R}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ03 Hero Hunter.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ03 Hero Hunter.png"
 	        }
 	    },
 	    {
@@ -62,7 +62,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX10 Crystal Guitar.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX10 Crystal Guitar.png"
 	        }
 	    },
 	    {
@@ -71,7 +71,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB06 Defeat Means Friendship.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB06 Defeat Means Friendship.png"
 	        }
 	    },
 	    {
@@ -80,7 +80,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Creature — Spirit Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB08 Denizens of Yamara.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB08 Denizens of Yamara.png"
 	        }
 	    },
 	    {
@@ -89,7 +89,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Nightmare Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB02 Dreamdrinker.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB02 Dreamdrinker.png"
 	        }
 	    },
 	    {
@@ -98,7 +98,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Legendary Creature — Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMB01 Captain Aether.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MB01 Captain Aether.png"
 	        }
 	    },
 	    {
@@ -107,7 +107,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA05 Power Crystal.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA05 Power Crystal.png"
 	        }
 	    },
 	    {
@@ -116,7 +116,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW01 Crystal Voice, Solo Act.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW01 Crystal Voice, Solo Act.png"
 	        }
 	    },
 	    {
@@ -125,7 +125,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW07 Cut the Sky.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW07 Cut the Sky.png"
 	        }
 	    },
 	    {
@@ -134,7 +134,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW06 Happily Ever After.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW06 Happily Ever After.png"
 	        }
 	    },
 	    {
@@ -143,7 +143,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW03 Protector of the World.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW03 Protector of the World.png"
 	        }
 	    },
 	    {
@@ -151,7 +151,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW08 Laura, Would-Be Hero.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW08 Laura, Would-Be Hero.png"
 	        },
 	        "printed names": {
 	            "en": "RW08 Laura, Would-Be Hero"
@@ -162,7 +162,7 @@
 	                "en": "Laura, Hero Reborn"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CLaura, Hero Reborn.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Laura, Hero Reborn.png"
 	            },
 	            "type": "Legendary Creature — Human Warrior "
 	        }
@@ -173,7 +173,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW02 Savior of the Weak.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW02 Savior of the Weak.png"
 	        }
 	    },
 	    {
@@ -182,7 +182,7 @@
 	        "mana_cost": "{R}{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMX02 The Power of Friendship.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MX02 The Power of Friendship.png"
 	        }
 	    },
 	    {
@@ -191,7 +191,7 @@
 	        "mana_cost": "{5}{W}{W}",
 	        "type": "Legendary Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMW01 NAME, Supreme Judge.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MW01 NAME, Supreme Judge.png"
 	        }
 	    },
 	    {
@@ -200,7 +200,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW16 Supportive Bystanders.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW16 Supportive Bystanders.png"
 	        }
 	    },
 	    {
@@ -209,7 +209,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW11 Not My Problem.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW11 Not My Problem.png"
 	        }
 	    },
 	    {
@@ -218,7 +218,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW09 Masked Hero Team.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW09 Masked Hero Team.png"
 	        }
 	    },
 	    {
@@ -227,7 +227,7 @@
 	        "mana_cost": "{3}{B/G}",
 	        "type": "Creature — Rat Monk ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ07 Grizzled Mentor.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ07 Grizzled Mentor.png"
 	        }
 	    },
 	    {
@@ -236,7 +236,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW02 Wandworker.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW02 Wandworker.png"
 	        }
 	    },
 	    {
@@ -245,7 +245,7 @@
 	        "mana_cost": "{2}{U/R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ09 Mecha Sword.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ09 Mecha Sword.png"
 	        }
 	    },
 	    {
@@ -254,7 +254,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU01 AI Mech.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU01 AI Mech.png"
 	        }
 	    },
 	    {
@@ -263,7 +263,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU05 Secret Identity.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU05 Secret Identity.png"
 	        }
 	    },
 	    {
@@ -272,7 +272,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU06 Force of Apathy.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU06 Force of Apathy.png"
 	        }
 	    },
 	    {
@@ -281,7 +281,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU04 Spirit-Home Wand.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU04 Spirit-Home Wand.png"
 	        }
 	    },
 	    {
@@ -290,7 +290,7 @@
 	        "mana_cost": "{U/R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ09 Combining Mecha.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ09 Combining Mecha.png"
 	        }
 	    },
 	    {
@@ -299,7 +299,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU15 Cyberknight Frame.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU15 Cyberknight Frame.png"
 	        }
 	    },
 	    {
@@ -308,7 +308,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Citizen Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU16 Scientists.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU16 Scientists.png"
 	        }
 	    },
 	    {
@@ -317,7 +317,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Cat Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU14 Interfering Catgeist.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU14 Interfering Catgeist.png"
 	        }
 	    },
 	    {
@@ -326,7 +326,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU12 Send Away.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU12 Send Away.png"
 	        }
 	    },
 	    {
@@ -335,7 +335,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU11 Gear Up.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU11 Gear Up.png"
 	        }
 	    },
 	    {
@@ -343,7 +343,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU04 Lantalian Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU04 Lantalian Acolyte.png"
 	        },
 	        "printed names": {
 	            "en": "CU04 Lantalian Acolyte"
@@ -354,7 +354,7 @@
 	                "en": "Champion of the Sea"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CChampion of the Sea.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Champion of the Sea.png"
 	            },
 	            "type": "Creature — Human Merfolk Wizard "
 	        }
@@ -365,7 +365,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU01 Lesser Monstrosity.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU01 Lesser Monstrosity.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{3}{R/W}{R/W}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ10 Chosen Buskers.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ10 Chosen Buskers.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR02 Disinterested Predator.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR02 Disinterested Predator.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR07 Go Down Swinging.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR07 Go Down Swinging.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{5}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR05 Nightmare Attack.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR05 Nightmare Attack.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Shaman Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR02 Empowered Daredevil.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR02 Empowered Daredevil.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Legendary Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR01 John, Legendary Sunranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR01 John, Legendary Sunranger.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{U}",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMU01.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MU01.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMR02 Never Give Up!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MR02 Never Give Up!.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR06 Unexpected Attack.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR06 Unexpected Attack.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{2}{G/W}{G/W}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ05 Flowerpower.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ05 Flowerpower.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG14 Combo Attack!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG14 Combo Attack!.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR11 Spiritfire.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR11 Spiritfire.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR10 Berserk Mode.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR10 Berserk Mode.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Creature — Elemental Cat Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR08 Princess of Vyuren.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR08 Princess of Vyuren.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR05 Hot-Blooded Hero.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR05 Hot-Blooded Hero.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{3}{W/B}",
 	        "type": "Creature — Cat Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ06 Catgirl and Girl Cat.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ06 Catgirl and Girl Cat.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Fox Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR02 Golden Spirit.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR02 Golden Spirit.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG05 Win the Contest.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG05 Win the Contest.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Human Druid Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG01 NAME, Princess of Vorkezo.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG01 NAME, Princess of Vorkezo.png"
 	        }
 	    },
 	    {
@@ -544,7 +544,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG03 Eri, Peacemaker.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG03 Eri, Peacemaker.png"
 	        },
 	        "printed names": {
 	            "en": "RG03 Eri, Peacemaker"
@@ -555,7 +555,7 @@
 	                "en": "Eri, Uniter of Worlds"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CEri, Uniter of Worlds.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Eri, Uniter of Worlds.png"
 	            },
 	            "type": "Legendary Creature — Human Druid "
 	        }
@@ -565,7 +565,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMG02 Transformation Sequence.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MG02 Transformation Sequence.png"
 	        },
 	        "printed names": {
 	            "en": "MG02 Transformation Sequence"
@@ -576,7 +576,7 @@
 	                "en": "Form of a Hero"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CForm of a Hero.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Form of a Hero.png"
 	            },
 	            "type": "Legendary Creature — Avatar "
 	        }
@@ -587,7 +587,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG15 Showdown.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG15 Showdown.png"
 	        }
 	    },
 	    {
@@ -596,7 +596,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR12 Reckless Driving.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR12 Reckless Driving.png"
 	        }
 	    },
 	    {
@@ -605,7 +605,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG13 Commencement of Festivities.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG13 Commencement of Festivities.png"
 	        }
 	    },
 	    {
@@ -614,7 +614,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG12 Make My Monster Grow!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG12 Make My Monster Grow!.png"
 	        }
 	    },
 	    {
@@ -623,7 +623,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG11 Skyscraper Attack!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG11 Skyscraper Attack!.png"
 	        }
 	    },
 	    {
@@ -632,7 +632,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG05 Infused Beast.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG05 Infused Beast.png"
 	        }
 	    },
 	    {
@@ -641,7 +641,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG07 Attack of the Walls.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG07 Attack of the Walls.png"
 	        }
 	    },
 	    {
@@ -650,7 +650,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Turtle Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG04 Prince of the Wilds.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG04 Prince of the Wilds.png"
 	        }
 	    },
 	    {
@@ -659,7 +659,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCA02 Stoneslumber Dragon.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CA02 Stoneslumber Dragon.png"
 	        }
 	    },
 	    {
@@ -667,7 +667,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL04 The World of Fire.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL04 The World of Fire.png"
 	        },
 	        "printed names": {
 	            "en": "CL04 The World of Fire"
@@ -678,7 +678,7 @@
 	                "en": "Vyuren"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CVyuren.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Vyuren.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -688,7 +688,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL05 The Wilds.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL05 The Wilds.png"
 	        },
 	        "printed names": {
 	            "en": "CL05 The Wilds"
@@ -699,7 +699,7 @@
 	                "en": "Gyukimoro"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CGyukimoro.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Gyukimoro.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -710,7 +710,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Legendary Planeswalker — Sapentia ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMA01 Sapentia.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MA01 Sapentia.png"
 	        }
 	    },
 	    {
@@ -719,7 +719,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMA02 Armor of the One.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MA02 Armor of the One.png"
 	        }
 	    },
 	    {
@@ -728,7 +728,7 @@
 	        "mana_cost": "{8}",
 	        "type": "Creature — Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRA01 Indifference.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RA01 Indifference.png"
 	        }
 	    },
 	    {
@@ -737,7 +737,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUL04 Thriving Neighborhood.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UL04 Thriving Neighborhood.png"
 	        }
 	    },
 	    {
@@ -746,7 +746,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUL01 Team HQ.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UL01 Team HQ.png"
 	        }
 	    },
 	    {
@@ -755,7 +755,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUL03 The Quarry.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UL03 The Quarry.png"
 	        }
 	    },
 	    {
@@ -763,7 +763,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL01 The Kingdom of Hope.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL01 The Kingdom of Hope.png"
 	        },
 	        "printed names": {
 	            "en": "CL01 The Kingdom of Hope"
@@ -774,7 +774,7 @@
 	                "en": "Arcadia"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CArcadia.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Arcadia.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -784,7 +784,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL02 The Land Beneath the Sea.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL02 The Land Beneath the Sea.png"
 	        },
 	        "printed names": {
 	            "en": "CL02 The Land Beneath the Sea"
@@ -795,7 +795,7 @@
 	                "en": "Lantalia"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CLantalia.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Lantalia.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -805,7 +805,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRL01 Home of Monsters.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RL01 Home of Monsters.png"
 	        },
 	        "printed names": {
 	            "en": "RL01 Home of Monsters"
@@ -816,7 +816,7 @@
 	                "en": "Vorkezo"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CVorkezo.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Vorkezo.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -826,7 +826,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRL03 The Realm of Dreams.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RL03 The Realm of Dreams.png"
 	        },
 	        "printed names": {
 	            "en": "RL03 The Realm of Dreams"
@@ -837,7 +837,7 @@
 	                "en": "Malvoros"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMalvoros.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Malvoros.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -847,7 +847,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL07 The Ordinary World.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL07 The Ordinary World.png"
 	        },
 	        "printed names": {
 	            "en": "CL07 The Ordinary World"
@@ -858,7 +858,7 @@
 	                "en": "Iroishi"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CIroishi.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Iroishi.png"
 	            },
 	            "type": "Land — Demiplane "
 	        }
@@ -869,7 +869,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX02 Surrender to Despair.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX02 Surrender to Despair.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{5}{B}{R}",
 	        "type": "Legendary Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX03 King Nightmare.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX03 King Nightmare.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{5}{R}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX04 Wildflower's Warcry.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX04 Wildflower's Warcry.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Legendary Creature — Azra Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX02 Nanashi, Apostle of Apathy.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX02 Nanashi, Apostle of Apathy.png"
 	        }
 	    },
 	    {
@@ -904,7 +904,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX03 Yumeko, Self-Centered.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX03 Yumeko, Self-Centered.png"
 	        },
 	        "printed names": {
 	            "en": "UX03 Yumeko, Self-Centered"
@@ -915,7 +915,7 @@
 	                "en": "Yumeko, Champion of Dream"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CYumeko, Champion of Dream.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Yumeko, Champion of Dream.png"
 	            },
 	            "type": "Legendary Creature — Human Nightmare "
 	        }
@@ -926,7 +926,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG06 Power Up!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG06 Power Up!.png"
 	        }
 	    },
 	    {
@@ -935,7 +935,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW02 Taki Ryoka, Househusband.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW02 Taki Ryoka, Househusband.png"
 	        }
 	    },
 	    {
@@ -944,7 +944,7 @@
 	        "mana_cost": "{4}{W}{B}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX06 Suzuna Ryoka, Kid Hero.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX06 Suzuna Ryoka, Kid Hero.png"
 	        }
 	    },
 	    {
@@ -953,7 +953,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW04 Alabaster Witch.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW04 Alabaster Witch.png"
 	        }
 	    },
 	    {
@@ -962,7 +962,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU05 Cerulean Witch.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU05 Cerulean Witch.png"
 	        }
 	    },
 	    {
@@ -971,7 +971,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB06 Tenebrous Witch.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB06 Tenebrous Witch.png"
 	        }
 	    },
 	    {
@@ -980,7 +980,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Fox Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG03 Desperate Druid.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG03 Desperate Druid.png"
 	        }
 	    },
 	    {
@@ -989,7 +989,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Azra Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB03 Ambitious Nobody.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB03 Ambitious Nobody.png"
 	        }
 	    },
 	    {
@@ -998,7 +998,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR04 Burnout Mahou.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR04 Burnout Mahou.png"
 	        }
 	    },
 	    {
@@ -1007,7 +1007,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR03 Laserknuckle.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR03 Laserknuckle.png"
 	        }
 	    },
 	    {
@@ -1015,7 +1015,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRL02 Scientopia.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RL02 Scientopia.png"
 	        },
 	        "printed names": {
 	            "en": "RL02 Scientopia"
@@ -1026,7 +1026,7 @@
 	                "en": "Ekno"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CEkno.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Ekno.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -1036,7 +1036,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRL04 Music's Heart.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RL04 Music's Heart.png"
 	        },
 	        "printed names": {
 	            "en": "RL04 Music's Heart"
@@ -1047,7 +1047,7 @@
 	                "en": "Ilyu"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CIlyu.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Ilyu.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR13 Centennial Crossed Lovers.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR13 Centennial Crossed Lovers.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB05 Monstifier.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB05 Monstifier.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Vampire Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB13 Late Night Bystander.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB13 Late Night Bystander.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Azra Ninja ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU06 Oni Silencer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU06 Oni Silencer.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Angel Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW08 Arcadian Princess.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW08 Arcadian Princess.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "{U}",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMU02.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MU02.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{1}{W/U}",
 	        "type": "Creature — Dragon Citizen Samurai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ01 Part Time Samurai.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ01 Part Time Samurai.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB11 Finishing Blow.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB11 Finishing Blow.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB15 We Can't Give Up!.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB15 We Can't Give Up!.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB16 Drain Emotions.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB16 Drain Emotions.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG16 Momo's Arrival.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG16 Momo's Arrival.png"
 	        }
 	    },
 	    {
@@ -1156,7 +1156,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Lizard Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG10 Hydra's Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG10 Hydra's Acolyte.png"
 	        },
 	        "printed names": {
 	            "en": "CG10 Hydra's Acolyte"
@@ -1167,7 +1167,7 @@
 	                "en": "Champion of the Wild"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CChampion of the Wild.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Champion of the Wild.png"
 	            },
 	            "type": "Creature — Lizard Druid Warrior "
 	        }
@@ -1178,7 +1178,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Turtle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG09 Captivating Kappa.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG09 Captivating Kappa.png"
 	        }
 	    },
 	    {
@@ -1187,7 +1187,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR04 Raging Daymare.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR04 Raging Daymare.png"
 	        }
 	    },
 	    {
@@ -1196,7 +1196,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Ox Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR06 Centennial Vanguard.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR06 Centennial Vanguard.png"
 	        }
 	    },
 	    {
@@ -1204,7 +1204,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR09 Music's Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR09 Music's Acolyte.png"
 	        },
 	        "printed names": {
 	            "en": "CR09 Music's Acolyte"
@@ -1215,7 +1215,7 @@
 	                "en": "Champion of Crescendo"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CChampion of Crescendo.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Champion of Crescendo.png"
 	            },
 	            "type": "Creature — Human Elemental Bard "
 	        }
@@ -1226,7 +1226,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU09 Lost to Apathy.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU09 Lost to Apathy.png"
 	        }
 	    },
 	    {
@@ -1235,7 +1235,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU07 Collaborative Thinking.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU07 Collaborative Thinking.png"
 	        }
 	    },
 	    {
@@ -1243,7 +1243,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Fox Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW10 Arcadian Acolyte.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW10 Arcadian Acolyte.png"
 	        },
 	        "printed names": {
 	            "en": "CW10 Arcadian Acolyte"
@@ -1254,7 +1254,7 @@
 	                "en": "Arcadian Champion"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CArcadian Champion.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Arcadian Champion.png"
 	            },
 	            "type": "Creature — Fox Angel Cleric "
 	        }
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{4}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR15 Fire Strike.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR15 Fire Strike.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Azra Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG08 Garden Kekkaishi.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG08 Garden Kekkaishi.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{3}{W/U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ01 Workshop Arms.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ01 Workshop Arms.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU07 Tengu of Vorkezo.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU07 Tengu of Vorkezo.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU10 Freeze Desires.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU10 Freeze Desires.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW14 Resolute Rescue.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW14 Resolute Rescue.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW13 Disenchant.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW13 Disenchant.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG06 Demiplanar Division.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG06 Demiplanar Division.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL06 Terramorphic Expanse.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL06 Terramorphic Expanse.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{6}{R/G}{R/G}",
 	        "type": "Creature — Dinosaur Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ04 Walking Disaster.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ04 Walking Disaster.png"
 	        }
 	    },
 	    {
@@ -1354,7 +1354,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT10 Crystal Voice.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT10 Crystal Voice.png"
 	        },
 	        "printed names": {
 	            "en": "UT10 Crystal Voice"
@@ -1365,7 +1365,7 @@
 	                "en": "Crystal Drums"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCrystal Drums.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Crystal Drums.png"
 	            },
 	            "type": "Legendary Creature — Elf Bard "
 	        }
@@ -1375,7 +1375,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Scientist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT08 Bereaved Genius.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT08 Bereaved Genius.png"
 	        },
 	        "printed names": {
 	            "en": "UT08 Bereaved Genius"
@@ -1386,7 +1386,7 @@
 	                "en": "Mechanical Child"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMechanical Child.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Mechanical Child.png"
 	            },
 	            "type": "Artifact Creature — Construct "
 	        }
@@ -1396,7 +1396,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT06 Celebrity Mahou.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT06 Celebrity Mahou.png"
 	        },
 	        "printed names": {
 	            "en": "UT06 Celebrity Mahou"
@@ -1407,7 +1407,7 @@
 	                "en": "Beleagured Manager"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CBeleagured Manager.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Beleagured Manager.png"
 	            },
 	            "type": "Creature — Human Citizen Advisor "
 	        }
@@ -1417,7 +1417,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT02 Exhausted Champion.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT02 Exhausted Champion.png"
 	        },
 	        "printed names": {
 	            "en": "UT02 Exhausted Champion"
@@ -1428,7 +1428,7 @@
 	                "en": "Sapentia's Emissary"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CSapentia's Emissary.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Sapentia's Emissary.png"
 	            },
 	            "type": "Creature — Azra Wizard "
 	        }
@@ -1438,7 +1438,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT07 Flower Storm, the Idealistic.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT07 Flower Storm, the Idealistic.png"
 	        },
 	        "printed names": {
 	            "en": "UT07 Flower Storm, the Idealistic"
@@ -1449,7 +1449,7 @@
 	                "en": "Shadow Storm, the Cynical"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CShadow Storm, the Cynical.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Shadow Storm, the Cynical.png"
 	            },
 	            "type": "Legendary Creature — Human Wizard "
 	        }
@@ -1459,7 +1459,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT03 Would-Be Hero.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT03 Would-Be Hero.png"
 	        },
 	        "printed names": {
 	            "en": "UT03 Would-Be Hero"
@@ -1470,7 +1470,7 @@
 	                "en": "Manipulative Familiar"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CManipulative Familiar.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Manipulative Familiar.png"
 	            },
 	            "type": "Creature — Cat Spirit Advisor "
 	        }
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR05 Pose as a Team.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR05 Pose as a Team.png"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW07 Last-Second Heroics.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW07 Last-Second Heroics.png"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{X}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR08 Royal Wedding.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR08 Royal Wedding.png"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG08 Challenge the King.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG08 Challenge the King.png"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB07 Dark Essence Strike.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB07 Dark Essence Strike.png"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{3}{W/B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ06 Not as Dead as We Thought.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ06 Not as Dead as We Thought.png"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{1}{B/G}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ07 Teacher.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ07 Teacher.png"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA02 Sapentia's Henchmen.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA02 Sapentia's Henchmen.png"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Azra Snake Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB14 School Bullies.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB14 School Bullies.png"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Rabbit Ranger Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG02 Ranger of the Green Wood.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG02 Ranger of the Green Wood.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Nightmare Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB08 Malicious Baku.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB08 Malicious Baku.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Human Citizen Assassin ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB05 Murderer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB05 Murderer.png"
 	        }
 	    },
 	    {
@@ -1588,7 +1588,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Cat Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT01 Acquisitions Expert.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT01 Acquisitions Expert.png"
 	        },
 	        "printed names": {
 	            "en": "UT01 Acquisitions Expert"
@@ -1599,7 +1599,7 @@
 	                "en": "Martial Expert"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMartial Expert.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Martial Expert.png"
 	            },
 	            "type": "Creature — Mouse Warrior "
 	        }
@@ -1610,7 +1610,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW05 Shining Armaments.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW05 Shining Armaments.png"
 	        }
 	    },
 	    {
@@ -1619,7 +1619,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Legendary Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX05 Momo, Jaded Kekkaishi.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX05 Momo, Jaded Kekkaishi.png"
 	        }
 	    },
 	    {
@@ -1628,7 +1628,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Artifact Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR03 Ekno Dragon.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR03 Ekno Dragon.png"
 	        }
 	    },
 	    {
@@ -1637,7 +1637,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Dragon Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW04 Draconic Kekkaishi.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW04 Draconic Kekkaishi.png"
 	        }
 	    },
 	    {
@@ -1646,7 +1646,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG04 The X-Team.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG04 The X-Team.png"
 	        }
 	    },
 	    {
@@ -1655,7 +1655,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG03 By Our Powers Combined....png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG03 By Our Powers Combined....png"
 	        }
 	    },
 	    {
@@ -1664,7 +1664,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR14 Tragic Backstory.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR14 Tragic Backstory.png"
 	        }
 	    },
 	    {
@@ -1673,7 +1673,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Cat Warrior Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR16 Retired Hero.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR16 Retired Hero.png"
 	        }
 	    },
 	    {
@@ -1682,7 +1682,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Azra Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB02 Oni Monstrosity.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB02 Oni Monstrosity.png"
 	        }
 	    },
 	    {
@@ -1691,7 +1691,7 @@
 	        "mana_cost": "{2}{B/R}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ03 Dreamborn Terrorizer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ03 Dreamborn Terrorizer.png"
 	        }
 	    },
 	    {
@@ -1700,7 +1700,7 @@
 	        "mana_cost": "{2}{G/W}",
 	        "type": "Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ05 Altar to Yamara.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ05 Altar to Yamara.png"
 	        }
 	    },
 	    {
@@ -1709,7 +1709,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Azra Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW05 Skilled Kekkaishi.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW05 Skilled Kekkaishi.png"
 	        }
 	    },
 	    {
@@ -1718,7 +1718,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCA03 Monsterbane Pistol.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CA03 Monsterbane Pistol.png"
 	        }
 	    },
 	    {
@@ -1727,7 +1727,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact — Equipment Treasure ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCA04 Magnificent Jewelry.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CA04 Magnificent Jewelry.png"
 	        }
 	    },
 	    {
@@ -1735,7 +1735,7 @@
 	        "mana_cost": "{R}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX04 Koro, Passionate Gardener.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX04 Koro, Passionate Gardener.png"
 	        },
 	        "printed names": {
 	            "en": "UX04 Koro, Passionate Gardener"
@@ -1746,7 +1746,7 @@
 	                "en": "Unstoppable Wildflower Queen"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUnstoppable Wildflower Queen.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Unstoppable Wildflower Queen.png"
 	            },
 	            "type": "Legendary Creature — Human Druid "
 	        }
@@ -1757,7 +1757,7 @@
 	        "mana_cost": "{1}{G/U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCZ08 Villainous Activity.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CZ08 Villainous Activity.png"
 	        }
 	    },
 	    {
@@ -1765,7 +1765,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUL02 Formless Chaos.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UL02 Formless Chaos.png"
 	        },
 	        "printed names": {
 	            "en": "UL02 Formless Chaos"
@@ -1776,7 +1776,7 @@
 	                "en": "The Place Between"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CThe Place Between.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/The Place Between.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Cat Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW06 Back Alley Crew.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW06 Back Alley Crew.png"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Creature — Azra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCA01 Sapentia's Vanguard.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CA01 Sapentia's Vanguard.png"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU06 Freezing Armaments.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU06 Freezing Armaments.png"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "{4}",
 	        "type": "Creature — Cat Illusion ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA01 Sapentia's Censor.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA01 Sapentia's Censor.png"
 	        }
 	    },
 	    {
@@ -1822,7 +1822,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMW02 Ordinary Girl, Stalwart Friend.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MW02 Ordinary Girl, Stalwart Friend.png"
 	        },
 	        "printed names": {
 	            "en": "MW02 Ordinary Girl, Stalwart Friend"
@@ -1833,7 +1833,7 @@
 	                "en": "OG, Personified Friendship"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1COG, Personified Friendship.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/OG, Personified Friendship.png"
 	            },
 	            "type": "Legendary Planeswalker — Ordinary Girl "
 	        }
@@ -1844,7 +1844,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA03 Delivery Truck.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA03 Delivery Truck.png"
 	        }
 	    },
 	    {
@@ -1853,7 +1853,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG05 Wandering Kaiju.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG05 Wandering Kaiju.png"
 	        }
 	    },
 	    {
@@ -1862,7 +1862,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW04 Yamara's Punisher.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW04 Yamara's Punisher.png"
 	        }
 	    },
 	    {
@@ -1871,7 +1871,7 @@
 	        "mana_cost": "{6}{R}{R}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR04 Dream of Pain.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR04 Dream of Pain.png"
 	        }
 	    },
 	    {
@@ -1880,7 +1880,7 @@
 	        "mana_cost": "{3}{R/W}{R/W}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ10 Crystal Keys.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ10 Crystal Keys.png"
 	        }
 	    },
 	    {
@@ -1889,7 +1889,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRW05 Dance Magic Dance.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RW05 Dance Magic Dance.png"
 	        }
 	    },
 	    {
@@ -1897,7 +1897,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX08 Kei, MALICE Future.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX08 Kei, MALICE Future.png"
 	        },
 	        "printed names": {
 	            "en": "RX08 Kei, MALICE Future"
@@ -1908,7 +1908,7 @@
 	                "en": "Kara, MALICE Past"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CKara, MALICE Past.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Kara, MALICE Past.png"
 	            },
 	            "type": "Legendary Creature — Human Warlock "
 	        }
@@ -1919,7 +1919,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB04 Monster-to-Be.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB04 Monster-to-Be.png"
 	        }
 	    },
 	    {
@@ -1927,7 +1927,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Legendary Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX07 NAME, Temple Maid.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX07 NAME, Temple Maid.png"
 	        },
 	        "printed names": {
 	            "en": "UX07 NAME, Temple Maid"
@@ -1938,7 +1938,7 @@
 	                "en": "NAME, Chosen by Vorkezo"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CNAME, Chosen by Vorkezo.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/NAME, Chosen by Vorkezo.png"
 	            },
 	            "type": "Legendary Creature — Human Druid Warrior "
 	        }
@@ -1948,7 +1948,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT09 Mirio Mori, Mad Mechanic.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT09 Mirio Mori, Mad Mechanic.png"
 	        },
 	        "printed names": {
 	            "en": "UT09 Mirio Mori, Mad Mechanic"
@@ -1959,7 +1959,7 @@
 	                "en": "Irv, Talking Car"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CIrv, Talking Car.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Irv, Talking Car.png"
 	            },
 	            "type": "Legendary Artifact — Vehicle "
 	        }
@@ -1970,7 +1970,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX06 Akira, Financial Backer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX06 Akira, Financial Backer.png"
 	        }
 	    },
 	    {
@@ -1979,7 +1979,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX01 Weaponry Enthusiast.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX01 Weaponry Enthusiast.png"
 	        }
 	    },
 	    {
@@ -1987,7 +1987,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX07 Monster Trainer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX07 Monster Trainer.png"
 	        },
 	        "printed names": {
 	            "en": "RX07 Monster Trainer"
@@ -1998,7 +1998,7 @@
 	                "en": "Tamed Monster"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CTamed Monster.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Tamed Monster.png"
 	            },
 	            "type": "Creature — Beast "
 	        }
@@ -2008,7 +2008,7 @@
 	        "mana_cost": "{W}{U}",
 	        "type": "Legendary Creature — Azra Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX01 Hoshi, Relic Hunter.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX01 Hoshi, Relic Hunter.png"
 	        },
 	        "printed names": {
 	            "en": "UX01 Hoshi, Relic Hunter"
@@ -2019,7 +2019,7 @@
 	                "en": "Hoshi, Self-Chosen Samurai"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CHoshi, Self-Chosen Samurai.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Hoshi, Self-Chosen Samurai.png"
 	            },
 	            "type": "Legendary Creature — Azra Samurai "
 	        }
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU07 Monster of the Week.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU07 Monster of the Week.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB05 Extract Fears.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB05 Extract Fears.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR07 Spunky Engineer.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR07 Spunky Engineer.png"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Human Citizen Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB03 Ami Ryoka, Mayor.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB03 Ami Ryoka, Mayor.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR08 Demiplanar Collapse.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR08 Demiplanar Collapse.png"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{2}{R/G}",
 	        "type": "Creature — Human Bard Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ04 Centennial Ritualist.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ04 Centennial Ritualist.png"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Cleric Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW06 Keeper of the Seals.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW06 Keeper of the Seals.png"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW07 Lady of Air.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW07 Lady of Air.png"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU02 Lady of Water.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU02 Lady of Water.png"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCR01 Lady of Fire.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CR01 Lady of Fire.png"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG07 Lady of Earth.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG07 Lady of Earth.png"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB01 Deadly Nightmare.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB01 Deadly Nightmare.png"
 	        }
 	    },
 	    {
@@ -2137,7 +2137,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCL03 The Realm of Sorcery.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CL03 The Realm of Sorcery.png"
 	        },
 	        "printed names": {
 	            "en": "CL03 The Realm of Sorcery"
@@ -2148,7 +2148,7 @@
 	                "en": "Kerovotz"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CKerovotz.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Kerovotz.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -2158,7 +2158,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Demiplane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRL05 The Afterlife.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RL05 The Afterlife.png"
 	        },
 	        "printed names": {
 	            "en": "RL05 The Afterlife"
@@ -2169,7 +2169,7 @@
 	                "en": "Yamara"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CYamara.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Yamara.png"
 	            },
 	            "type": "Legendary Land — Demiplane "
 	        }
@@ -2180,7 +2180,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG07 World-Saver.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG07 World-Saver.png"
 	        }
 	    },
 	    {
@@ -2188,7 +2188,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU02 Hero Incognito.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU02 Hero Incognito.png"
 	        },
 	        "printed names": {
 	            "en": "RU02 Hero Incognito"
@@ -2199,7 +2199,7 @@
 	                "en": "Hero Revealed"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CHero Revealed.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Hero Revealed.png"
 	            },
 	            "type": "Creature — Human Wizard "
 	        }
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU13 Research Program.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU13 Research Program.png"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW15 Yamaran High Uniform.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW15 Yamaran High Uniform.png"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Bird Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW01 Centennial Referee.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW01 Centennial Referee.png"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW12 Royal Restoration.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW12 Royal Restoration.png"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW08 Proven Worthy.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW08 Proven Worthy.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU03 Lantalian Princess.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU03 Lantalian Princess.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCU08 Pearl of Lantalia.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CU08 Pearl of Lantalia.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Legendary Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU08 The Throne Beneath the Seas.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU08 The Throne Beneath the Seas.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Cat Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB04 Wish Granter.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB04 Wish Granter.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG08 Stoneslumber Tiger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG08 Stoneslumber Tiger.png"
 	        }
 	    },
 	    {
@@ -2299,7 +2299,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Fox Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT05 Eager Familiar.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT05 Eager Familiar.png"
 	        },
 	        "printed names": {
 	            "en": "UT05 Eager Familiar"
@@ -2310,7 +2310,7 @@
 	                "en": "Reluctant Hero"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CReluctant Hero.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Reluctant Hero.png"
 	            },
 	            "type": "Creature — Human "
 	        }
@@ -2320,7 +2320,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Crearure — Human Warrior",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUT04 Masked Dragonrider.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UT04 Masked Dragonrider.png"
 	        },
 	        "printed names": {
 	            "en": "UT04 Masked Dragonrider"
@@ -2331,7 +2331,7 @@
 	                "en": "Cyberwyrm"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCyberwyrm.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Cyberwyrm.png"
 	            },
 	            "type": "Artifact Creature — Dragon "
 	        }
@@ -2342,7 +2342,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Pilot ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU03 Masked Rider.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU03 Masked Rider.png"
 	        }
 	    },
 	    {
@@ -2350,7 +2350,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA04 Combining Weapon.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA04 Combining Weapon.png"
 	        },
 	        "printed names": {
 	            "en": "UA04 Combining Weapon"
@@ -2361,7 +2361,7 @@
 	                "en": "Combined Weapons"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCombined Weapons.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Combined Weapons.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRG02 People to Protect.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RG02 People to Protect.png"
 	        }
 	    },
 	    {
@@ -2380,7 +2380,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Legendary Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMR01 NAME, Naive Kid.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MR01 NAME, Naive Kid.png"
 	        },
 	        "printed names": {
 	            "en": "MR01 NAME, Naive Kid"
@@ -2391,7 +2391,7 @@
 	                "en": "NAME, Ascendant Hero"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CNAME, Ascendant Hero.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/NAME, Ascendant Hero.png"
 	            },
 	            "type": "Legendary Creature — Human Cleric "
 	        }
@@ -2402,7 +2402,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX09 The Prototype.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX09 The Prototype.png"
 	        }
 	    },
 	    {
@@ -2410,7 +2410,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB03 Reluctant Villain.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB03 Reluctant Villain.png"
 	        },
 	        "printed names": {
 	            "en": "RB03 Reluctant Villain"
@@ -2421,7 +2421,7 @@
 	                "en": "Redeemed Heroine"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRedeemed Heroine.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Redeemed Heroine.png"
 	            },
 	            "type": "Creature — Human Wizard "
 	        }
@@ -2432,7 +2432,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRA02 Mid-Size Sedan.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RA02 Mid-Size Sedan.png"
 	        }
 	    },
 	    {
@@ -2441,7 +2441,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU08 Cursed Costume.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU08 Cursed Costume.png"
 	        }
 	    },
 	    {
@@ -2450,7 +2450,7 @@
 	        "mana_cost": "{3}{R}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX10 Ready to Rock.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX10 Ready to Rock.png"
 	        }
 	    },
 	    {
@@ -2459,7 +2459,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU04 Robokaiju.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU04 Robokaiju.png"
 	        }
 	    },
 	    {
@@ -2468,7 +2468,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMG01 Hero Twins.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MG01 Hero Twins.png"
 	        }
 	    },
 	    {
@@ -2477,7 +2477,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB07 A Bleak and Tiresome World.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB07 A Bleak and Tiresome World.png"
 	        }
 	    },
 	    {
@@ -2486,7 +2486,7 @@
 	        "mana_cost": "{1}{G}{W}",
 	        "type": "Creature — Wall ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX05 Divine Prison.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX05 Divine Prison.png"
 	        }
 	    },
 	    {
@@ -2495,7 +2495,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Fox Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG01 Mentor Mascot.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG01 Mentor Mascot.png"
 	        }
 	    },
 	    {
@@ -2504,7 +2504,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Cat Spirit Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB01 Kerovotz Familiar.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB01 Kerovotz Familiar.png"
 	        }
 	    },
 	    {
@@ -2513,7 +2513,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR07 Calling Your Attacks.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR07 Calling Your Attacks.png"
 	        }
 	    },
 	    {
@@ -2522,7 +2522,7 @@
 	        "mana_cost": "{6}{U/B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ02 Silent Colossus.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ02 Silent Colossus.png"
 	        }
 	    },
 	    {
@@ -2531,7 +2531,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Legendary Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMA03 Monument to the Heroes.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MA03 Monument to the Heroes.png"
 	        }
 	    },
 	    {
@@ -2540,7 +2540,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Citizen Coward ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB02 Treacherous Neighbors.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB02 Treacherous Neighbors.png"
 	        }
 	    },
 	    {
@@ -2549,7 +2549,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCB10 Heroic Sacrifice.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CB10 Heroic Sacrifice.png"
 	        }
 	    },
 	    {
@@ -2558,7 +2558,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU01 Yu, Former Villain.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU01 Yu, Former Villain.png"
 	        }
 	    },
 	    {
@@ -2567,7 +2567,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Legendary Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRA03 Super Robot Galaxy Rise.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RA03 Super Robot Galaxy Rise.png"
 	        }
 	    },
 	    {
@@ -2576,7 +2576,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRX09 Mass-Produced Mecha.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RX09 Mass-Produced Mecha.png"
 	        }
 	    },
 	    {
@@ -2585,7 +2585,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Pilot Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR03 Sunranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR03 Sunranger.png"
 	        }
 	    },
 	    {
@@ -2594,7 +2594,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Human Pilot Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU02 Moonranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU02 Moonranger.png"
 	        }
 	    },
 	    {
@@ -2603,7 +2603,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Cat Pilot Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW01 Starranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW01 Starranger.png"
 	        }
 	    },
 	    {
@@ -2612,7 +2612,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Human Pilot Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG02 Earthranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG02 Earthranger.png"
 	        }
 	    },
 	    {
@@ -2621,7 +2621,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Spirit Pilot Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB06 Voidranger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB06 Voidranger.png"
 	        }
 	    },
 	    {
@@ -2629,7 +2629,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Citizen Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUW03 Fanatical Fanartist.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UW03 Fanatical Fanartist.png"
 	        },
 	        "printed names": {
 	            "en": "UW03 Fanatical Fanartist"
@@ -2640,7 +2640,7 @@
 	                "en": "Ascended Admirer"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CAscended Admirer.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Ascended Admirer.png"
 	            },
 	            "type": "Creature — Human Warrior "
 	        }
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Merfolk Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUU03 Lantalian Emissary.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UU03 Lantalian Emissary.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRR06 Hapless Villain.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RR06 Hapless Villain.png"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "{4}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRU05 Steal Souls.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RU05 Steal Souls.png"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUB08 Pledge Your Soul.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UB08 Pledge Your Soul.png"
 	        }
 	    },
 	    {
@@ -2687,7 +2687,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUX08 Yu, MALICE Apprentice.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UX08 Yu, MALICE Apprentice.png"
 	        }
 	    },
 	    {
@@ -2696,7 +2696,7 @@
 	        "mana_cost": "{3}{B}{G}{U}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMX01 Elya, MALICE Eternal.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MX01 Elya, MALICE Eternal.png"
 	        }
 	    },
 	    {
@@ -2704,7 +2704,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB04 Kass, MALICE Present.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB04 Kass, MALICE Present.png"
 	        },
 	        "printed names": {
 	            "en": "RB04 Kass, MALICE Present"
@@ -2715,7 +2715,7 @@
 	                "en": "Dozens of Minions"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CDozens of Minions.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Dozens of Minions.png"
 	            },
 	            "type": "Creature — Minion "
 	        }
@@ -2726,7 +2726,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Legendary Creature — Human Nightmare ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CRB01 Yumeko, Princess of Dream.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/RB01 Yumeko, Princess of Dream.png"
 	        }
 	    },
 	    {
@@ -2735,7 +2735,7 @@
 	        "mana_cost": "{G/U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUZ08 MALICE Charm.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UZ08 MALICE Charm.png"
 	        }
 	    },
 	    {
@@ -2743,7 +2743,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMB02 Part-Time Shinigami.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MB02 Part-Time Shinigami.png"
 	        },
 	        "printed names": {
 	            "en": "MB02 Part-Time Shinigami"
@@ -2754,7 +2754,7 @@
 	                "en": "Reaper of Souls"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CReaper of Souls.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Reaper of Souls.png"
 	            },
 	            "type": "Creature — Spirit Cleric Samurai "
 	        }
@@ -2765,7 +2765,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Artifact Creature — Food Boar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG01 Living Lunch.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG01 Living Lunch.png"
 	        }
 	    },
 	    {
@@ -2774,7 +2774,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact Creature — Food Spider ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCG06 Spiderburger.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CG06 Spiderburger.png"
 	        }
 	    },
 	    {
@@ -2783,7 +2783,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUG04 Croissant Crabs.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UG04 Croissant Crabs.png"
 	        }
 	    },
 	    {
@@ -2791,7 +2791,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUA06 Transformation Trinket.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UA06 Transformation Trinket.png"
 	        },
 	        "printed names": {
 	            "en": "UA06 Transformation Trinket"
@@ -2802,7 +2802,7 @@
 	                "en": "Mahou Costume"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMahou Costume.png"
+	                "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/Mahou Costume.png"
 	            },
 	            "type": "Artifact — Equipment "
 	        }
@@ -2813,7 +2813,7 @@
 	        "mana_cost": "{3}{W}{U}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMX03 Malazoga, the Secret Spell.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MX03 Malazoga, the Secret Spell.png"
 	        }
 	    },
 	    {
@@ -2822,7 +2822,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMX04.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MX04.png"
 	        }
 	    },
 	    {
@@ -2831,7 +2831,7 @@
 	        "mana_cost": "",
 	        "type": "",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CMX05.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/MX05.png"
 	        }
 	    },
 	    {
@@ -2840,7 +2840,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CUR01 Passionate Painter.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/UR01 Passionate Painter.png"
 	        }
 	    },
 	    {
@@ -2849,7 +2849,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1CCW03 Dragonfriend.png"
+	            "en": "https://raw.githubusercontent.com/PhilippeSaner/PRISM/main/PRISMV1C-files/CW03 Dragonfriend.png"
 	        }
 	    }
 	]
