@@ -3113,5 +3113,4 @@
 		50 CG01 Living Lunch
 		50 CG06 Spiderburger
 		50 CW03 Dragonfriend
-	[BasicSlot(1)]
 	
