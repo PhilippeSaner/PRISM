@@ -1,0 +1,4603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>PRISM</name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>CB07 Flamboyant Villain</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>CB07 Flamboyant Villain enters the battlefield with two +1/+1 counters on it if a creature you control died since your last turn.</text>
+    </card>
+    <card>
+      <name>CZ02 Energy Drainer</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>4U/B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Azra Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Energy Drainer enters, blank target creature. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CB12 The Power of Despair</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put two +1/+1 counters on target creature you control and blank it. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CB09 Nightmare&apos;s Acolyte</name>
+      <set rarity="common" splitterPath="/CB09 Nightmare's Acolyte.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+4BB, {T}: Transform Nightmare’s Acolyte. Activate only as a sorcery.
+---
+(Back): Nightmare&apos;s Emissary</text>
+      <related attach="transform">Nightmare&apos;s Emissary</related>
+    </card>
+    <card>
+      <name>Nightmare&apos;s Emissary</name>
+      <set rarity="common" splitterPath="/Nightmare's Emissary.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Nightmare Warlock </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, deathtouch
+---
+(Front): CB09 Nightmare&apos;s Acolyte</text>
+      <related attach="transform">CB09 Nightmare&apos;s Acolyte</related>
+    </card>
+    <card>
+      <name>UZ03 Hero Hunter</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2B/RB/R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Sacrifice a creature: Hero Hunter gets +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>UX10 Crystal Guitar</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Crystal Guitar attacks, you may exile another target creature you control, then return it to the battlefield tapped and attacking. Then if three or more creatures entered the battlefield this turn, Crystal Guitar gets +3/+3 until end of turn.</text>
+    </card>
+    <card>
+      <name>RB06 Defeat Means Friendship</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a creature an opponent controls would die, exile it instead.
+You may cast cards exiled with Defeat Means Friendship and may spend mana as though it were mana of any color to do so.</text>
+    </card>
+    <card>
+      <name>RB08 Denizens of Yamara</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Whenever another nontoken creature you control dies, create a token that’s a copy of it, except it has bystander and is a Spirit in addition to its other types.</text>
+    </card>
+    <card>
+      <name>RB02 Dreamdrinker</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Nightmare Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+At the beginning of your upkeep, blank a non-colorless creature you control. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>MB01 Captain Aether</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Signature — Lady of Air, Lady of Earth, Lady of Fire, Lady of Water (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+As long as you have a full sentai, Captain Aether gets +10/+10 and has lifelink, hexproof, trample, and haste. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>UA05 Power Crystal</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Indestructible
+Power Crystal enters with three +1/+1 counters on it.
+Whenever a creature enters the battlefield, you may move a counter from Power Crystal to that creature.</text>
+    </card>
+    <card>
+      <name>RW01 Crystal Voice, Solo Act</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another legendary creature you control enters, create a 1/1 Music Elemental creature token that’s all colors.</text>
+    </card>
+    <card>
+      <name>RW07 Cut the Sky</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Signature — Hoshi, Self-Chosen Samurai and Shining Armaments (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Destroy all nonland permanents that are not named, or attached to a creature named, Hoshi, Self-Chosen Samurai.</text>
+    </card>
+    <card>
+      <name>RW06 Happily Ever After</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Happily Ever After enters, each player gains 5 life and draws a card.
+At the beginning of your upkeep, if there are five colors among permanents you control, there are six or more card types among permanents you control and/or cards in your graveyard, and your life total is greater than or equal to your starting life total, you win the game.</text>
+    </card>
+    <card>
+      <name>RW03 Protector of the World</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have ward {X}, where X is the number of creatures in your sentai. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}. A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>RW08 Laura, Would-Be Hero</name>
+      <set rarity="rare" splitterPath="/RW08 Laura, Would-Be Hero.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Laura, Would-Be Hero dies during your turn, return it to the battlefield transformed.
+---
+(Back): Laura, Hero Reborn</text>
+      <related attach="transform">Laura, Hero Reborn</related>
+    </card>
+    <card>
+      <name>Laura, Hero Reborn</name>
+      <set rarity="rare" splitterPath="/Laura, Hero Reborn.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warrior </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+If damage would be dealt to you, that damage is dealt to Laura instead.
+---
+(Front): RW08 Laura, Would-Be Hero</text>
+      <related attach="transform">RW08 Laura, Would-Be Hero</related>
+    </card>
+    <card>
+      <name>RW02 Savior of the Weak</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Savior of the Weak enters, exile any number of creatures you control with power 4 or less.
+You may cast cards exiled with Savior of the Weak without paying their mana costs.</text>
+    </card>
+    <card>
+      <name>MX02 The Power of Friendship</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>RWB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — Laura, Hero Reborn and Mitsuki, Champion of Dream (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+The first time a nontoken creature you control dies each turn, return it to the battlefield. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>MW01 NAME, Supreme Judge</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5WW</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, double strike, lifelink, ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+{T}, Blank NAME, Supreme Judge: Destroy all other nonland permanents. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CW16 Supportive Bystanders</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Bystander (Can’t attack or block.)
+When Supportive Bystanders enters, target creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>CW11 Not My Problem</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has bystander. (It can’t attack or block.)</text>
+    </card>
+    <card>
+      <name>CW09 Masked Hero Team</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{2}: Exile target creature you control until Masked Hero Team leaves the battlefield. Activate only as a sorcery. (Cast either side or both. When you cast both, the back is a token.)
+Masked Hero Team gets +2/+2 for each card exiled with it. (Cast either side or both. When you cast both, the back is a token.)</text>
+    </card>
+    <card>
+      <name>CZ07 Grizzled Mentor</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>3B/G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Rat Monk </type>
+        <maintype>Creature</maintype>
+        <pt>2/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Grizzled Mentor enters with two +1/+1 counters on it.
+When Grizzled Mentor dies, put its counters on target creature you control.</text>
+    </card>
+    <card>
+      <name>CW02 Wandworker</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Wandworker is equipped, it gets +1/+1 and has lifelink.</text>
+    </card>
+    <card>
+      <name>UZ09 Mecha Sword</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2U/R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+1.
+Whenever a Vehicle you control becomes a creature, you may attach Mecha Sword to it.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>UU01 AI Mech</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As long as AI Mech is enchanted or equipped, it’s an artifact creature.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>UU05 Secret Identity</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature or planeswalker
+Enchanted permanent has hexproof.
+When enchanted permanent attacks, blocks, or activates an ability, sacrifice Secret Identity.</text>
+    </card>
+    <card>
+      <name>RU06 Force of Apathy</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may blank three blue creatures you control rather than pay Force of Apathy’s mana cost. (They lose all colors and abilities.)
+Counter target spell.</text>
+    </card>
+    <card>
+      <name>RU04 Spirit-Home Wand</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+1U: Until end of turn, target unattached Equipment you control becomes a 2/2 artifact creature. Until end of turn, change its text by replacing all instances of “equipped creature” with its name.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>CZ09 Combining Mecha</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>U/R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever Combining Mecha crews a Vehicle, that Vehicle gets +2/+2 until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>CU15 Cyberknight Frame</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Hexproof
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>CU16 Scientists</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Scientists enters, scry 1, then draw a card.</text>
+    </card>
+    <card>
+      <name>CU14 Interfering Catgeist</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Bystander (Can’t attack or block.)
+When Interfering Catgeist enters, counter target spell.</text>
+    </card>
+    <card>
+      <name>CU12 Send Away</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target creature to its owner’s hand. If that creature wasn’t enchanted, equipped, or transformed, draw a card.</text>
+    </card>
+    <card>
+      <name>CU11 Gear Up</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, target creature or artifact you control becomes an artifact creature with base power and toughness 4/4. If it has bystander, it loses bystander until end of turn.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>CU04 Lantalian Acolyte</name>
+      <set rarity="common" splitterPath="/CU04 Lantalian Acolyte.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+4UU, {T}: Transform Lantalian Acolyte. Activate only as a sorcery.
+---
+(Back): Champion of the Sea</text>
+      <related attach="transform">Champion of the Sea</related>
+    </card>
+    <card>
+      <name>Champion of the Sea</name>
+      <set rarity="common" splitterPath="/Champion of the Sea.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Merfolk Wizard </type>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+3UU: Champion of the Sea can’t be blocked this turn.
+---
+(Front): CU04 Lantalian Acolyte</text>
+      <related attach="transform">CU04 Lantalian Acolyte</related>
+    </card>
+    <card>
+      <name>CU01 Lesser Monstrosity</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lesser Monstrosity enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>CZ10 Chosen Buskers</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3R/WR/W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Chosen Buskers enters, creatures you control get +2/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>UR02 Disinterested Predator</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Disinterested Predator enters, it fights up to one target creature.</text>
+    </card>
+    <card>
+      <name>RR07 Go Down Swinging</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Whenever Go Down Swinging enters or enchanted creature fights, enchanted creature gets +2/+2. Then it fights up to one target creature an opponent controls. If it didn’t fight, sacrifice it.</text>
+    </card>
+    <card>
+      <name>RR05 Nightmare Attack</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>For each creature on the battlefield, create a 4/4 red and black Nightmare Beast creature token that fights that creature.</text>
+    </card>
+    <card>
+      <name>RR02 Empowered Daredevil</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever RR02 Empowered Daredevil crews a Vehicle, you may have that Vehicle gain flying, double strike, trample, and haste. If you do, sacrifice that Vehicle at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>RR01 John, Legendary Sunranger</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature</type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may tap an untapped sentai you control. If you tap one or more creatures this way, create a Mech token and put two +1/+1 counters on it for each creature in that sentai. (A Mech is a 3/3 Vehicle artifact with crew 2. A sentai is up to one creature of each colour.)</text>
+    </card>
+    <card>
+      <name>MU01</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>MR02 Never Give Up!</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can’t lose the game and your opponents can’t win the game.
+At the beginning of your end step, if you have 0 or less life or no cards in your library, sacrifice Never Give Up!.</text>
+    </card>
+    <card>
+      <name>UR06 Unexpected Attack</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to target creature or planeswalker you don’t control. The creature you control loses bystander and defender until end of turn.</text>
+    </card>
+    <card>
+      <name>UZ05 Flowerpower</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/WG/W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Other creatures you control with toughness greater than their power get +1/+1 and have vigilance.</text>
+    </card>
+    <card>
+      <name>CG14 Combo Attack!</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Two target creatures you control get +2/+1 until end of turn. (You need two targets to cast this.)</text>
+    </card>
+    <card>
+      <name>CR11 Spiritfire</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast CR11 Spiritfire, return a creature you control to its owner’s hand.
+CR11 Spiritfire deals 4 damage to any target.</text>
+    </card>
+    <card>
+      <name>CR10 Berserk Mode</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or Vehicle
+As long as enchanted permanent is a creature, it gets +2/+1, has menace, and attacks each combat if able.</text>
+    </card>
+    <card>
+      <name>CR08 Princess of Vyuren</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elemental Cat Noble </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{R}: Princess of Vyuren gets gets +1/+1 and gains trample and haste until end of turn. Activate only if Princess of Vyuren entered the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>CR05 Hot-Blooded Hero</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When CR05 Hot-Blooded Hero dies, it deals 3 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>CZ06 Catgirl and Girl Cat</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3W/B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Catgirl and Girl Cat enters, create a 3/3 green Cat creature token.</text>
+    </card>
+    <card>
+      <name>CR02 Golden Spirit</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Golden Spirit enters, it deals 1 damage to each opponent. Create a tapped Treasure token.</text>
+    </card>
+    <card>
+      <name>RG05 Win the Contest</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a Demiplane card and put it onto the battlefield. Transform it. Then shuffle.</text>
+    </card>
+    <card>
+      <name>RG01 NAME, Princess of Vorkezo</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Druid Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of combat on your turn, put a +1/+1 counter on NAME, Princess of Vorkezo for each creature in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>RG03 Eri, Peacemaker</name>
+      <set rarity="rare" splitterPath="/RG03 Eri, Peacemaker.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lands you control enter the battlefield untapped.
+W/UU/BB/RR/W: Transform Eri, Peacemaker.
+---
+(Back): Eri, Uniter of Worlds</text>
+      <related attach="transform">Eri, Uniter of Worlds</related>
+    </card>
+    <card>
+      <name>Eri, Uniter of Worlds</name>
+      <set rarity="rare" splitterPath="/Eri, Uniter of Worlds.png" >PRISM</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Eri, Uniter of Worlds has all abilities of legendary Demiplanes you control.
+Lands you control enter the battlefield untapped.
+---
+(Front): RG03 Eri, Peacemaker</text>
+      <related attach="transform">RG03 Eri, Peacemaker</related>
+    </card>
+    <card>
+      <name>MG02 Transformation Sequence</name>
+      <set rarity="mythic" splitterPath="/MG02 Transformation Sequence.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>6GG</manacost>
+        <cmc>8</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You have protection from everything.
+At the beginning of your upkeep, transform Transformation Sequence.
+---
+(Back): Form of a Hero</text>
+      <related attach="transform">Form of a Hero</related>
+    </card>
+    <card>
+      <name>Form of a Hero</name>
+      <set rarity="mythic" splitterPath="/Form of a Hero.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>8</cmc>
+        <type>Legendary Creature - Avatar </type>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible, vigilance, trample
+Form of a Hero’s power and toughness are equal to your life total.
+All damage that would be dealt to Form of a Hero is dealt to you instead.
+---
+(Front): MG02 Transformation Sequence</text>
+      <related attach="transform">MG02 Transformation Sequence</related>
+    </card>
+    <card>
+      <name>CG15 Showdown</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature you control and and on target creature an opponent controls. Those creatures fight. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>CR12 Reckless Driving</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature or Vehicle you control gets +2/+0 and gains first strike until end of turn. If it’s a Vehicle, it becomes an artifact creature until end of turn.</text>
+    </card>
+    <card>
+      <name>CG13 Commencement of Festivities</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Prevent all combat damage that would be dealt to players this turn.</text>
+    </card>
+    <card>
+      <name>CG12 Make My Monster Grow!</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant permanent
+When Make My Monster Grow! enters, put X +1/+1 counters on enchanted permanent.
+As long as enchanted permanent is a creature, it has trample.</text>
+    </card>
+    <card>
+      <name>CG11 Skyscraper Attack!</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact
+Enchanted artifact is a 5/5 green Minion artifact creature with vigilance and reach.</text>
+    </card>
+    <card>
+      <name>CG05 Infused Beast</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Infused Beast enters with a +1/+1 counter on it.
+Remove a +1/+1 counter from Infused Beast: Infused Beast gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>UG07 Attack of the Walls</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +2/+2 until end of turn.
+Colorless creatures you control get an additional +1/+1 and gain trample until end of turn.
+Walls you control get an additional +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>CG04 Prince of the Wilds</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Turtle Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Put a +1/+1 counter on Prince of the Wilds. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>CA02 Stoneslumber Dragon</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{5}: Stoneslumber Dragon becomes a 3/3 Dragon Minion artifact creature with flying that’s all colors until end of turn.</text>
+    </card>
+    <card>
+      <name>CL04 The World of Fire</name>
+      <set rarity="common" splitterPath="/CL04 The World of Fire.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The World of Fire enters tapped.
+{T}: Add {R}.
+4R, {T}: Transform The World of Fire. Activate only as a sorcery.
+---
+(Back): Vyuren</text>
+      <related attach="transform">Vyuren</related>
+    </card>
+    <card>
+      <name>Vyuren</name>
+      <set rarity="common" splitterPath="/Vyuren.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Vyuren, it deals 3 damage to target player or planeswalker.
+{T}: Add two mana of any one color.
+---
+(Front): CL04 The World of Fire</text>
+      <related attach="transform">CL04 The World of Fire</related>
+    </card>
+    <card>
+      <name>CL05 The Wilds</name>
+      <set rarity="common" splitterPath="/CL05 The Wilds.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Wilds enters tapped.
+{T}: Add {G}.
+4G, {T}: Transform The Wilds. Activate only as a sorcery.
+---
+(Back): Gyukimoro</text>
+      <related attach="transform">Gyukimoro</related>
+    </card>
+    <card>
+      <name>Gyukimoro</name>
+      <set rarity="common" splitterPath="/Gyukimoro.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Gyukimoro, create a 3/4 green Plant Beast creature token.
+{T}: Add two mana of any one color.
+---
+(Front): CL05 The Wilds</text>
+      <related attach="transform">CL05 The Wilds</related>
+    </card>
+    <card>
+      <name>MA01 Sapentia</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Planeswalker - Sapentia </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature becomes colorless, put a loyalty counter on Sapentia for each color it was.
+[0]: Blank target non-colorless creature. Add C. (It loses all colors and abilities.)
+[-3]: Draw a card for each colorless nonland permanent you control.
+[-7:]: Gain control of up to two target colorless nonland permanents. </text>
+    </card>
+    <card>
+      <name>MA02 Armor of the One</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Armor of the One has all abilities of other Equipment you control.</text>
+    </card>
+    <card>
+      <name>RA01 Indifference</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Incarnation </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast for each nontoken creature you control with no abilities.
+Whenever a creature blocks or becomes blocked by Indifference, blank that creature. (It loses all colors and abilities).</text>
+    </card>
+    <card>
+      <name>UL04 Thriving Neighborhood</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Thriving Neighborhood enters tapped.
+As Thriving Neighborhood enters, choose two colors.
+{T}: Add one mana of one of the chosen colors.</text>
+    </card>
+    <card>
+      <name>UL01 Team HQ</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add one mana of any color. Put a stun counter on Team HQ.</text>
+    </card>
+    <card>
+      <name>UL03 The Quarry</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When The Quarry enters, target opponent chooses three basic land types. The Quarry gains those types.</text>
+    </card>
+    <card>
+      <name>CL01 The Kingdom of Hope</name>
+      <set rarity="common" splitterPath="/CL01 The Kingdom of Hope.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Kingdom of Hope enters tapped.
+{T}: Add {W}.
+4W, {T}: Transform The Kingdom of Hope. Activate only as a sorcery.
+---
+(Back): Arcadia</text>
+      <related attach="transform">Arcadia</related>
+    </card>
+    <card>
+      <name>Arcadia</name>
+      <set rarity="common" splitterPath="/Arcadia.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Arcadia, you gain 5 life.
+{T}: Add two mana of any one color.
+---
+(Front): CL01 The Kingdom of Hope</text>
+      <related attach="transform">CL01 The Kingdom of Hope</related>
+    </card>
+    <card>
+      <name>CL02 The Land Beneath the Sea</name>
+      <set rarity="common" splitterPath="/CL02 The Land Beneath the Sea.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Land Beneath the Sea enters tapped.
+{T}: Add {U}.
+4U, {T}: Transform The Land Beneath the Sea. Activate only as a sorcery.
+---
+(Back): Lantalia</text>
+      <related attach="transform">Lantalia</related>
+    </card>
+    <card>
+      <name>Lantalia</name>
+      <set rarity="common" splitterPath="/Lantalia.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Lantalia, draw a card.
+{T}: Add two mana of any one color.
+---
+(Front): CL02 The Land Beneath the Sea</text>
+      <related attach="transform">CL02 The Land Beneath the Sea</related>
+    </card>
+    <card>
+      <name>RL01 Home of Monsters</name>
+      <set rarity="rare" splitterPath="/RL01 Home of Monsters.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Home of Monsters enters tapped.
+{T}: Add {U}, {B}, or {G}.
+2BGU, {T}: Transform Home of Monsters.
+---
+(Back): Vorkezo</text>
+      <related attach="transform">Vorkezo</related>
+    </card>
+    <card>
+      <name>Vorkezo</name>
+      <set rarity="rare" splitterPath="/Vorkezo.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Vorkezo, put five +1/+1 counters on target creature you control.
+{T}: Add two mana of any one color.
+---
+(Front): RL01 Home of Monsters</text>
+      <related attach="transform">RL01 Home of Monsters</related>
+    </card>
+    <card>
+      <name>RL03 The Realm of Dreams</name>
+      <set rarity="rare" splitterPath="/RL03 The Realm of Dreams.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Realm of Dreams enters tapped.
+{T}: Add {U}, {B}, or {R}.
+3UBR, {T}: Transform The Realm of Dreams.
+---
+(Back): Malvoros</text>
+      <related attach="transform">Malvoros</related>
+    </card>
+    <card>
+      <name>Malvoros</name>
+      <set rarity="rare" splitterPath="/Malvoros.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Malvoros, exile the top two cards of each player’s library. Until the end of your next turn, you may play those cards.
+{T}: Add two mana of any one color.
+---
+(Front): RL03 The Realm of Dreams</text>
+      <related attach="transform">RL03 The Realm of Dreams</related>
+    </card>
+    <card>
+      <name>CL07 The Ordinary World</name>
+      <set rarity="common" splitterPath="/CL07 The Ordinary World.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}: Transform The Ordinary World.
+---
+(Back): Iroishi</text>
+      <related attach="transform">Iroishi</related>
+    </card>
+    <card>
+      <name>Iroishi</name>
+      <set rarity="common" splitterPath="/Iroishi.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add one mana of any color.
+---
+(Front): CL07 The Ordinary World</text>
+      <related attach="transform">CL07 The Ordinary World</related>
+    </card>
+    <card>
+      <name>RX02 Surrender to Despair</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blank target creature and gain control of it. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>RX03 King Nightmare</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>5BR</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When RX03 King Nightmare enters, exile each player’s hand. Until the end of your next turn, you may play cards exiled this way, and may spend mana as though it were mana of any type to do so.</text>
+    </card>
+    <card>
+      <name>RX04 Wildflower&apos;s Warcry</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>5RG</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap all lands you control. They become 2/2 red and green Elemental creatures with indestructible and haste until end of turn. They’re still lands. 
+Transformed Demiplanes you control get +4/+4 and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>UX02 Nanashi, Apostle of Apathy</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Azra Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Nanashi, Apostle of Apathy enters, blank target creature. (It loses all colors and abilities.)
+Whenever you blank another creature, draw a card. When you blank Nanashi, put three +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>UX03 Yumeko, Self-Centered</name>
+      <set rarity="uncommon" splitterPath="/UX03 Yumeko, Self-Centered.png" >PRISM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Transform UX03 Yumeko, Self-Centered. Activate only as a sorcery.
+---
+(Back): Yumeko, Champion of Dream</text>
+      <related attach="transform">Yumeko, Champion of Dream</related>
+    </card>
+    <card>
+      <name>Yumeko, Champion of Dream</name>
+      <set rarity="uncommon" splitterPath="/Yumeko, Champion of Dream.png" >PRISM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Nightmare </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Yumeko attacks, create two 1/1 red Nightmare creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens.
+---
+(Front): UX03 Yumeko, Self-Centered</text>
+      <related attach="transform">UX03 Yumeko, Self-Centered</related>
+    </card>
+    <card>
+      <name>RG06 Power Up!</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a sentai from among creatures you control, then put a +1/+1 counter on each creature in that sentai for each creature in that sentai. (To choose a sentai, choose up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>UW02 Taki Ryoka, Househusband</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Whenever Taki Ryoka, Househusband or another Citizen enters under your control, you life equal to its toughness.</text>
+    </card>
+    <card>
+      <name>RX06 Suzuna Ryoka, Kid Hero</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>4WB</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Signature — Ami Ryoka, Mayor; Taki Ryoka, Househusband (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+When Suzuna Ryoka, Kid Hero enters, destroy all other creatures without bystander.</text>
+    </card>
+    <card>
+      <name>CW04 Alabaster Witch</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Alabaster Witch enters, you gain X life, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CU05 Cerulean Witch</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Cerulean Witch enters, scry X, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CB06 Tenebrous Witch</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Tenebrous Witch enters, each opponent loses X life, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CG03 Desperate Druid</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+{T}: Add CC. Blank Desperate Druid. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CB03 Ambitious Nobody</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ambitious Nobody dies, return it to the battlefield and blank it. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>RR04 Burnout Mahou</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, trample, haste
+At the beginning of your end step, blank Burnout Mahou. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CR03 Laserknuckle</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Double strike
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+    </card>
+    <card>
+      <name>RL02 Scientopia</name>
+      <set rarity="rare" splitterPath="/RL02 Scientopia.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Scientopia enters tapped.
+{T}: Add {W}, {U}, or {R}.
+2URW, {T}: Transform Scientopia.
+---
+(Back): Ekno</text>
+      <related attach="transform">Ekno</related>
+    </card>
+    <card>
+      <name>Ekno</name>
+      <set rarity="rare" splitterPath="/Ekno.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Ekno, search your library for an artifact card, reveal it, and put it into your hand. Then shuffle.
+{T}: Add two mana of any one color.
+---
+(Front): RL02 Scientopia</text>
+      <related attach="transform">RL02 Scientopia</related>
+    </card>
+    <card>
+      <name>RL04 Music&apos;s Heart</name>
+      <set rarity="rare" splitterPath="/RL04 Music's Heart.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Music’s Heart enters tapped.
+{T}: Add {W}, {R}, or {G}.
+1RGW, {T}: Transform Music’s Heart.
+---
+(Back): Ilyu</text>
+      <related attach="transform">Ilyu</related>
+    </card>
+    <card>
+      <name>Ilyu</name>
+      <set rarity="rare" splitterPath="/Ilyu.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Ilyu, creatures you control get +1/+1 and have haste and vigilance until end of turn.
+{T}: Add two mana of any one color.
+---
+(Front): RL04 Music&apos;s Heart</text>
+      <related attach="transform">RL04 Music&apos;s Heart</related>
+    </card>
+    <card>
+      <name>CR13 Centennial Crossed Lovers</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Centennial Crossed Lovers enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>CB05 Monstifier</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Monstifier enters, you may pay 2 life. When you do, put two +1/+1 counters on another target creature.</text>
+    </card>
+    <card>
+      <name>CB13 Late Night Bystander</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Late Night Bystander enters or dies, you draw a card and you lose 1 life. </text>
+    </card>
+    <card>
+      <name>CU06 Oni Silencer</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Ninja </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Oni Silencer enters, you may blank another non-colorless creature you control. If you do, draw a card. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CW08 Arcadian Princess</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Arcadian Princess enters, exile up to one target non-Angel creature you control, then return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>MU02</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UZ01 Part Time Samurai</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1W/U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dragon Citizen Samurai </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Equip abilities you activate cost {1} less to activate. 
+As long as Part Time Samurai is equipped, it loses bystander.</text>
+    </card>
+    <card>
+      <name>CB11 Finishing Blow</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>CB15 We Can&apos;t Give Up!</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell costs {1} less to cast for each member of your sentai. (A sentai is up to one creature of each color.)
+Return up to two target creature cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>CB16 Drain Emotions</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blank target creature. Drain Emotions deals 2 damage to it. You gain 2 life. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CG16 Momo&apos;s Arrival</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blank target artifact, enchantment, or creature with flying. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CG10 Hydra&apos;s Acolyte</name>
+      <set rarity="common" splitterPath="/CG10 Hydra's Acolyte.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lizard Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4GG, {T}: Transform Hydra’s Acolyte. Activate only as a sorcery.
+---
+(Back): Champion of the Wild</text>
+      <related attach="transform">Champion of the Wild</related>
+    </card>
+    <card>
+      <name>Champion of the Wild</name>
+      <set rarity="common" splitterPath="/Champion of the Wild.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Lizard Druid Warrior </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+---
+(Front): CG10 Hydra&apos;s Acolyte</text>
+      <related attach="transform">CG10 Hydra&apos;s Acolyte</related>
+    </card>
+    <card>
+      <name>CG09 Captivating Kappa</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Turtle </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Captivating Kappa enters, draw a card. Then if you control a Demiplane, gain 4 life.</text>
+    </card>
+    <card>
+      <name>CR04 Raging Daymare</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever a creature under your control leaves the battlefield, CR04 gets +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>CR06 Centennial Vanguard</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ox Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Centennial Vanguard attacks, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>CR09 Music&apos;s Acolyte</name>
+      <set rarity="common" splitterPath="/CR09 Music's Acolyte.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+4RR, {T}: Transform Music’s Acolyte. Activate only as a sorcery.
+---
+(Back): Champion of Crescendo</text>
+      <related attach="transform">Champion of Crescendo</related>
+    </card>
+    <card>
+      <name>Champion of Crescendo</name>
+      <set rarity="common" splitterPath="/Champion of Crescendo.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Elemental Bard </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control have haste.
+---
+(Front): CR09 Music&apos;s Acolyte</text>
+      <related attach="transform">CR09 Music&apos;s Acolyte</related>
+    </card>
+    <card>
+      <name>CU09 Lost to Apathy</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or planeswalker
+When Lost to Apathy enters, tap and blank enchanted permanent. (It loses all colors and abilities.)
+Enchanted permanent doesn’t untap during its controller’s untap step.</text>
+    </card>
+    <card>
+      <name>UU07 Collaborative Thinking</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This card costs {1} less for each member of your sentai. (A sentai is up to one creature of each color.)
+Draw three cards.</text>
+    </card>
+    <card>
+      <name>CW10 Arcadian Acolyte</name>
+      <set rarity="common" splitterPath="/CW10 Arcadian Acolyte.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>4WW, {T}: Transform Arcadian Acolyte. Activate only as a sorcery.
+---
+(Back): Arcadian Champion</text>
+      <related attach="transform">Arcadian Champion</related>
+    </card>
+    <card>
+      <name>Arcadian Champion</name>
+      <set rarity="common" splitterPath="/Arcadian Champion.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Angel Cleric </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+---
+(Front): CW10 Arcadian Acolyte</text>
+      <related attach="transform">CW10 Arcadian Acolyte</related>
+    </card>
+    <card>
+      <name>CR15 Fire Strike</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+•  Fire Strike deals 5 damage to target creature or planeswalker.
+•  Destroy target artifact or land.</text>
+    </card>
+    <card>
+      <name>CG08 Garden Kekkaishi</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Azra Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Garden Kekkaishi enters, create a 0/3 colorless Wall creature token.
+Tap an untapped Wall you control: Add {C}.</text>
+    </card>
+    <card>
+      <name>CZ01 Workshop Arms</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3W/U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Workshop Arms enters, create a 2/2 white and blue Artificer creature token, then attach Workshop Arms to it.
+Equipped creature gets +1/+1 and has vigilance.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CU07 Tengu of Vorkezo</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Tengu of Vorkezo enters the battlefield, you may have a noncreature artifact you control become a copy of it.</text>
+    </card>
+    <card>
+      <name>CU10 Freeze Desires</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Counter target spell unless its controller pays {1}.
+• Blank target creature. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CW14 Resolute Rescue</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one or both —
+• Target creature you control gets +2/+2 until end of turn.
+• Return target creature you control to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>CW13 Disenchant</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>UG06 Demiplanar Division</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sacrifice a land. Search your library for up to two basic land cards, plus up to two Demiplane cards if you sacrificed a legendary Demiplane. Put them all onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CL06 Terramorphic Expanse</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+    </card>
+    <card>
+      <name>CZ04 Walking Disaster</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>6R/GR/G</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Dinosaur Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>9/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Walking Disaster must be blocked if able.</text>
+    </card>
+    <card>
+      <name>UT10 Crystal Voice</name>
+      <set rarity="uncommon" splitterPath="/UT10 Crystal Voice.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Crystal Voice enters, create two 1/1 black Cat Spirit creature tokens.
+Team (Cast either side or both.When you cast both, the back is a token. Tokens don’t have signatures.)
+---
+(Back): Crystal Drums</text>
+      <related attach="transform">Crystal Drums</related>
+    </card>
+    <card>
+      <name>Crystal Drums</name>
+      <set rarity="uncommon" splitterPath="/Crystal Drums.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Elf Bard </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+Whenever another creature enters under your control, Crystal Drums gets +1/+1 until end of turn.
+---
+(Front): UT10 Crystal Voice</text>
+      <related attach="transform">UT10 Crystal Voice</related>
+    </card>
+    <card>
+      <name>UT08 Bereaved Genius</name>
+      <set rarity="uncommon" splitterPath="/UT08 Bereaved Genius.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bereaved Genius enters, create a tapped Treasure token.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Mechanical Child</text>
+      <related attach="transform">Mechanical Child</related>
+    </card>
+    <card>
+      <name>Mechanical Child</name>
+      <set rarity="uncommon" splitterPath="/Mechanical Child.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Construct </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mechanical Child dies, you may have a noncreature artifact you control become a copy of it.
+---
+(Front): UT08 Bereaved Genius</text>
+      <related attach="transform">UT08 Bereaved Genius</related>
+    </card>
+    <card>
+      <name>UT06 Celebrity Mahou</name>
+      <set rarity="uncommon" splitterPath="/UT06 Celebrity Mahou.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Pay life equal to Celebrity Mahou’s power
+Celebrity Mahou gets +1/+1 for each Citizen you control.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Beleagured Manager</text>
+      <related attach="transform">Beleagured Manager</related>
+    </card>
+    <card>
+      <name>Beleagured Manager</name>
+      <set rarity="uncommon" splitterPath="/Beleagured Manager.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen Advisor </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+{2}: Target creature loses bystander until end of turn.
+---
+(Front): UT06 Celebrity Mahou</text>
+      <related attach="transform">UT06 Celebrity Mahou</related>
+    </card>
+    <card>
+      <name>UT02 Exhausted Champion</name>
+      <set rarity="uncommon" splitterPath="/UT02 Exhausted Champion.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control dies, you lose 2 life.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Sapentia&apos;s Emissary</text>
+      <related attach="transform">Sapentia&apos;s Emissary</related>
+    </card>
+    <card>
+      <name>Sapentia&apos;s Emissary</name>
+      <set rarity="uncommon" splitterPath="/Sapentia's Emissary.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Wizard </type>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sapentia’s Emissary enters, you may blank another creature you control. If you do, put two +1/+1 counters on that creature. (It loses all colors and abilities.)
+---
+(Front): UT02 Exhausted Champion</text>
+      <related attach="transform">UT02 Exhausted Champion</related>
+    </card>
+    <card>
+      <name>UT07 Flower Storm, the Idealistic</name>
+      <set rarity="uncommon" splitterPath="/UT07 Flower Storm, the Idealistic.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Flower Storm, the Idealistic enters, distribute three +1/+1 counters among any number of target creatures you control.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Shadow Storm, the Cynical</text>
+      <related attach="transform">Shadow Storm, the Cynical</related>
+    </card>
+    <card>
+      <name>Shadow Storm, the Cynical</name>
+      <set rarity="uncommon" splitterPath="/Shadow Storm, the Cynical.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Wizard </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you put one or more counters on Shadow Storm, the Cynical, each opponent loses that much life. You gain that much life.
+---
+(Front): UT07 Flower Storm, the Idealistic</text>
+      <related attach="transform">UT07 Flower Storm, the Idealistic</related>
+    </card>
+    <card>
+      <name>UT03 Would-Be Hero</name>
+      <set rarity="uncommon" splitterPath="/UT03 Would-Be Hero.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When UT03 Would-Be Hero dies, add two mana of any one color. Until your next end step, you don’t lose this mana as steps and phases end.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Manipulative Familiar</text>
+      <related attach="transform">Manipulative Familiar</related>
+    </card>
+    <card>
+      <name>Manipulative Familiar</name>
+      <set rarity="uncommon" splitterPath="/Manipulative Familiar.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Spirit Advisor </type>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}, Sacrifice another creature: Draw a card. Activate only as a sorcery.
+---
+(Front): UT03 Would-Be Hero</text>
+      <related attach="transform">UT03 Would-Be Hero</related>
+    </card>
+    <card>
+      <name>UR05 Pose as a Team</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a sentai from among creatures you control. Each creature in that sentai gets +1/+1 until end of turn. (To choose a sentai, choose up to one creature of each color.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>UW07 Last-Second Heroics</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of target creatures you control. At the beginning of your next declare attackers step, return them to the battlefield under your control tapped and attacking.</text>
+    </card>
+    <card>
+      <name>UR08 Royal Wedding</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XRR</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Signature — Centennial Vanguard, Vyuren, Princess of Vyuren (Put your chosen signature into your hand from outside the game when you control both.)
+Two target creatures each get +X/+X and gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>UG08 Challenge the King</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Signature — Gyukimoro, Prince of the Wilds, Make My Monster Grow! (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Triple the number of +1/+1 counters on target creature you control, then it fights target creature.</text>
+    </card>
+    <card>
+      <name>UB07 Dark Essence Strike</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may remove two +1/+1 counters from among black creatures you control rather than pay Dark Essence Strike’s mana cost.
+Target creature gets -3/-3 until end of turn.</text>
+    </card>
+    <card>
+      <name>UZ06 Not as Dead as We Thought</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>3W/B</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose target creature card in your graveyard. If returning it to the battlefield would give you a larger sentai, or if you already have a full sentai, return it to the battlefield. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>UZ07 Teacher</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Teacher enters with four +1/+1 counters on it.
+{T}: Move a counter from Teacher to target creature. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>UA02 Sapentia&apos;s Henchmen</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Sapentia’s Henchmen enters, create three colorless 1/1 Azra creature tokens.
+Colorless creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>CB14 School Bullies</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Azra Snake Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When School Bullies enters, target opponent discards two cards.</text>
+    </card>
+    <card>
+      <name>CG02 Ranger of the Green Wood</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Rabbit Ranger Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Ranger of the Green Wood enters, search your library for a basic land or Demiplane card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>CB08 Malicious Baku</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Nightmare Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Malicious Baku enters, sacrifice up to two other creatures. Put X +1/+1 counters on Malicious Baku, where X is the total power of the sacrificed creatures.</text>
+    </card>
+    <card>
+      <name>UB05 Murderer</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Murderer enters, destroy target creature.</text>
+    </card>
+    <card>
+      <name>UT01 Acquisitions Expert</name>
+      <set rarity="uncommon" splitterPath="/UT01 Acquisitions Expert.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Acquisitions Expert enters, search your library for an Equipment card, reveal it, and put it into your hand. Then shuffle.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Martial Expert</text>
+      <related attach="transform">Martial Expert</related>
+    </card>
+    <card>
+      <name>Martial Expert</name>
+      <set rarity="uncommon" splitterPath="/Martial Expert.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Mouse Warrior </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Martial Expert gets +2/+2 as long as you’ve cast an Equipment spell or activated an equip ability this turn.
+---
+(Front): UT01 Acquisitions Expert</text>
+      <related attach="transform">UT01 Acquisitions Expert</related>
+    </card>
+    <card>
+      <name>UW05 Shining Armaments</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature is white in addition to its other colors, has base power and toughness 6/6, and gains lifelink.
+Equip 2W</text>
+    </card>
+    <card>
+      <name>UX05 Momo, Jaded Kekkaishi</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>3GW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Momo, Jaded Kekkaishi enters, create two 0/3 colorless Wall tokens.
+Momo, Jaded Kekkaishi gets +2/+0 for each colorless creature you control.</text>
+    </card>
+    <card>
+      <name>RR03 Ekno Dragon</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+{1}: Ekno Dragon deals 1 damage to any target. Activate this ability only if Ekno Dragon is attacking, and spend only mana produced by Demiplanes to do so.</text>
+    </card>
+    <card>
+      <name>RW04 Draconic Kekkaishi</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When Draconic Kekkaishi enters, create two 0/3 colorless Wall creature tokens.
+Walls you control get +2/+2 and have flying and vigilance.</text>
+    </card>
+    <card>
+      <name>RG04 The X-Team</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose and create X —
+• 2/3 white Cat Soldier with vigilance.
+• 3/2 blue Wolf Rogue with ward {2}.
+• 2/2 black Rat Ninja with deathtouch.
+• 3/1 red Cat Warrior with haste.
+• 3/3 green Ox Monk with trample.</text>
+    </card>
+    <card>
+      <name>UG03 By Our Powers Combined</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a sentai from among creatures you control. Create a 0/0 Avatar creature token that’s all colors and put X +1/+1 counters on it, where X is the total power of the creatures in that sentai. (To choose a sentai, choose up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CR14 Tragic Backstory</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast Tragic Backstory, sacrifice a creature or discard a card.
+Draw two cards.</text>
+    </card>
+    <card>
+      <name>CR16 Retired Hero</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat Warrior Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Retired Hero enters or leaves the battlefield, exile the top card of your library. You may play it until the end of your next turn.</text>
+    </card>
+    <card>
+      <name>UB02 Oni Monstrosity</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>5BB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Azra Mutant </type>
+        <maintype>Creature</maintype>
+        <pt>8/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever Oni Monstrosity attacks, each player blanks a non-colorless creature they control. (It loses all colors and abilities.)
+2B, Put Oni Monstrosity from your hand into your library third from the top: Create two tapped 1/1 black Azra creature tokens.</text>
+    </card>
+    <card>
+      <name>CZ03 Dreamborn Terrorizer</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>2B/R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+At the beginning of your end step, sacrifice a creature.</text>
+    </card>
+    <card>
+      <name>CZ05 Altar to Yamara</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2G/W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Altar to Yamara enters, create a 0/3 colorless Wall creature token.
+Other Walls you control get +1/+0 and have reach.</text>
+    </card>
+    <card>
+      <name>CW05 Skilled Kekkaishi</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Skilled Kekkaishi attacks, until end of turn, up to two target creatures you control assign combat damage equal to their toughness rather than their power.</text>
+    </card>
+    <card>
+      <name>CA03 Monsterbane Pistol</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and loses bystander. (Can’t attack or block.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>CA04 Magnificent Jewelry</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment Treasure </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Magnificent Jewelry enters, draw a card.
+Equipped creature gets +1/+1.
+Equip {1}
+{T}, Sacrifice Magnificent Jewelry: Add one mana of any color.</text>
+    </card>
+    <card>
+      <name>UX04 Koro, Passionate Gardener</name>
+      <set rarity="uncommon" splitterPath="/UX04 Koro, Passionate Gardener.png" >PRISM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target land.
+Whenever a permanent you control transforms into a legendary land, transform UX04 Koro, Passionate Gardener.
+---
+(Back): Unstoppable Wildflower Queen</text>
+      <related attach="transform">Unstoppable Wildflower Queen</related>
+    </card>
+    <card>
+      <name>Unstoppable Wildflower Queen</name>
+      <set rarity="uncommon" splitterPath="/Unstoppable Wildflower Queen.png" >PRISM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Untap target land. You may have it become a 6/3 Elemental land creature with haste and trample. If you do, sacrifice it at the beginning of the next end step unless it’s a legendary Demiplane.
+---
+(Front): UX04 Koro, Passionate Gardener</text>
+      <related attach="transform">UX04 Koro, Passionate Gardener</related>
+    </card>
+    <card>
+      <name>CZ08 Villainous Activity</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1G/U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant artifact
+Enchanted artifact is a blue and green Minion artifact creature with base power and toughness 4/4.
+Discard Villainous Activity: Investigate.</text>
+    </card>
+    <card>
+      <name>UL02 Formless Chaos</name>
+      <set rarity="uncommon" splitterPath="/UL02 Formless Chaos.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{4}, {T}: Transform Formless Chaos.
+---
+(Back): The Place Between</text>
+      <related attach="transform">The Place Between</related>
+    </card>
+    <card>
+      <name>The Place Between</name>
+      <set rarity="uncommon" splitterPath="/The Place Between.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into The Place Between, search your library for a legendary card or a card named on your signature. Reveal it and put it into your hand, then shuffle.
+{T}: Add two mana of any one color.
+---
+(Front): UL02 Formless Chaos</text>
+      <related attach="transform">UL02 Formless Chaos</related>
+    </card>
+    <card>
+      <name>CW06 Back Alley Crew</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Back Alley Crew enters, create a Weapon token. (It’s an Equipment with equip {2} and “Equipped creature gets +1/+1.”) </text>
+    </card>
+    <card>
+      <name>CA01 Sapentia&apos;s Vanguard</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Azra </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UU06 Freezing Armaments</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped create is blue in addition to its other colors and has base power and toughness 3/8.
+Whenever equipped creature deals damage to a creature, tap that creature and put a stun counter on it.”
+Equip 2U</text>
+    </card>
+    <card>
+      <name>UA01 Sapentia&apos;s Censor</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each player can’t cast more than one non-colorless spell each turn.
+Blank another non-colorless creature you control: Sapentia’s Censor gets +2/+2 until end of turn. Activate only as a sorcery. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>MW02 Ordinary Girl, Stalwart Friend</name>
+      <set rarity="mythic" splitterPath="/MW02 Ordinary Girl, Stalwart Friend.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+{T}, Sacrifice Ordinary Girl, Stalwart Friend: Target creature gets indestructible and hexproof until end of turn. At the beginning of your next upkeep, return Ordinary Girl, Stalwart Friend to the battlefield transformed.
+---
+(Back): OG, Personified Friendship</text>
+      <related attach="transform">OG, Personified Friendship</related>
+    </card>
+    <card>
+      <name>OG, Personified Friendship</name>
+      <set rarity="mythic" splitterPath="/OG, Personified Friendship.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Planeswalker - Ordinary Girl </type>
+        <loyalty>3</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+
+---
+(Front): MW02 Ordinary Girl, Stalwart Friend</text>
+      <related attach="transform">MW02 Ordinary Girl, Stalwart Friend</related>
+    </card>
+    <card>
+      <name>UA03 Delivery Truck</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Delivery Truck enters, create a Clue, a Food,  a Treasure and a Weapon token. (A Weapon is an Equipment with equip {2} and “Equipped creature gets +1/+1.”)
+Crew 3</text>
+    </card>
+    <card>
+      <name>UG05 Wandering Kaiju</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, ward {4} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}.)
+2G, Put Wandering Kaiju from your hand into your library fourth from the top: Draw a card. You may play an additional land this turn.</text>
+    </card>
+    <card>
+      <name>UW04 Yamara&apos;s Punisher</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each creature you control assigns combat damage equal to its toughness rather than its power.
+{W}, Put Yamara’s Punisher from your hand into your library second from the top: Create a 0/3 colorless Wall creature token.</text>
+    </card>
+    <card>
+      <name>UR04 Dream of Pain</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>6RR</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Dream of Pain enters or attacks, you may sacrifice a creature or discard a card. If you do, draw a card.
+1R, Put Dream of Pain from your hand into your library fourth from the top: Create a 1/1 red Nightmare Devil creature token with “When this creature dies, it deals 1 damage to any target.”</text>
+    </card>
+    <card>
+      <name>UZ10 Crystal Keys</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3R/WR/W</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Human Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you attack, create a tapped and attacking copy of another target creature you control except its name is Music Elemental, it’s a 1/1 Elemental creature, and it has “At the end of combat, sacrifice this creature.”</text>
+    </card>
+    <card>
+      <name>RW05 Dance Magic Dance</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature you control, then return it the battlefield under its owner’s control. Then exile it again and return it to the battlefield under its owner’s control. Then exile it again and return it to the battlefield under its owner’s control.</text>
+    </card>
+    <card>
+      <name>RX08 Kei, MALICE Future</name>
+      <set rarity="rare" splitterPath="/RX08 Kei, MALICE Future.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target noncreature artifact you control becomes a 4/4 blue and green Minion artifact creature until end of turn.
+Team (Cast either side or both. When you cast both, the back is a token. Tokens don’t have signatures.)
+---
+(Back): Kara, MALICE Past</text>
+      <related attach="transform">Kara, MALICE Past</related>
+    </card>
+    <card>
+      <name>Kara, MALICE Past</name>
+      <set rarity="rare" splitterPath="/Kara, MALICE Past.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Put two +1/+1 counters on each noncreature non-Vehicle artifact you control.
+---
+(Front): RX08 Kei, MALICE Future</text>
+      <related attach="transform">RX08 Kei, MALICE Future</related>
+    </card>
+    <card>
+      <name>UB04 Monster-to-Be</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Monster-to-Be deals damage to a player, put a +1/+1 counter on it.
+As long as Monster-to-Be has a counter on it, it has menace and isn’t a Citizen.
+As long as Monster-to-Be has four or more counters on it, it has indestructible and lifelink and is a Horror.</text>
+    </card>
+    <card>
+      <name>UX07 NAME, Temple Maid</name>
+      <set rarity="uncommon" splitterPath="/UX07 NAME, Temple Maid.png" >PRISM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever UX07 NAME, Temple Maid attacks, put a +1/+1 counter on another target creature you control. Then if you control four or more creatures with +1/+1 counters on them, transform UX07 NAME.
+---
+(Back): NAME, Chosen by Vorkezo</text>
+      <related attach="transform">NAME, Chosen by Vorkezo</related>
+    </card>
+    <card>
+      <name>NAME, Chosen by Vorkezo</name>
+      <set rarity="uncommon" splitterPath="/NAME, Chosen by Vorkezo.png" >PRISM</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Druid Warrior </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever NAME, Chosen by Vorkezo attacks, put a +1/+1 counter on target creature.
+Creatures you control have ward {X}, where X is the number of +1/+1 counters on them. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {X}.)
+---
+(Front): UX07 NAME, Temple Maid</text>
+      <related attach="transform">UX07 NAME, Temple Maid</related>
+    </card>
+    <card>
+      <name>UT09 Mirio Mori, Mad Mechanic</name>
+      <set rarity="uncommon" splitterPath="/UT09 Mirio Mori, Mad Mechanic.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever UT09 Mirio Mori, Mad Mechanic crews a Vehicle, that Vehicle becomes an artifact creature. (Permanently.)
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Irv, Talking Car</text>
+      <related attach="transform">Irv, Talking Car</related>
+    </card>
+    <card>
+      <name>Irv, Talking Car</name>
+      <set rarity="uncommon" splitterPath="/Irv, Talking Car.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample, haste
+Crew 3
+---
+(Front): UT09 Mirio Mori, Mad Mechanic</text>
+      <related attach="transform">UT09 Mirio Mori, Mad Mechanic</related>
+    </card>
+    <card>
+      <name>UX06 Akira, Financial Backer</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Whenever UX06 Akira or another Citizen enters under your control, create a Treasure token.</text>
+    </card>
+    <card>
+      <name>RX01 Weaponry Enthusiast</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>2WU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When RX01 Weaponry Enthusiast enters, draw a card and gain 2 life for each Equipment you control.</text>
+    </card>
+    <card>
+      <name>RX07 Monster Trainer</name>
+      <set rarity="rare" splitterPath="/RX07 Monster Trainer.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on that creature instead.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Tamed Monster</text>
+      <related attach="transform">Tamed Monster</related>
+    </card>
+    <card>
+      <name>Tamed Monster</name>
+      <set rarity="rare" splitterPath="/Tamed Monster.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Pay 3 life: Put a +1/+1 counter on Tamed Monster. Activate only as a sorcery.
+---
+(Front): RX07 Monster Trainer</text>
+      <related attach="transform">RX07 Monster Trainer</related>
+    </card>
+    <card>
+      <name>UX01 Hoshi, Relic Hunter</name>
+      <set rarity="uncommon" splitterPath="/UX01 Hoshi, Relic Hunter.png" >PRISM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Azra Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add CC. Spend this mana only to cast Equipment spells or activate abilities of Equipment.
+{T}: Transform UX01 Hoshi, Relic Hunter. Activate only as a sorcery and only if Equipment attached to UX01 Hoshi have total mana value 4 or greater.
+---
+(Back): Hoshi, Self-Chosen Samurai</text>
+      <related attach="transform">Hoshi, Self-Chosen Samurai</related>
+    </card>
+    <card>
+      <name>Hoshi, Self-Chosen Samurai</name>
+      <set rarity="uncommon" splitterPath="/Hoshi, Self-Chosen Samurai.png" >PRISM</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Azra Samurai </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike, vigilance, ward {3}
+---
+(Front): UX01 Hoshi, Relic Hunter</text>
+      <related attach="transform">UX01 Hoshi, Relic Hunter</related>
+    </card>
+    <card>
+      <name>RU07 Monster of the Week</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, you may have target noncreature artifact you control become an X/X Minion artifact creature, where X is one plus the number of time counters on Monster of the Week. If you do, put a time counter on Monster of the Week.</text>
+    </card>
+    <card>
+      <name>RB05 Extract Fears</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blank any number of non-colorless creatures you control. (They lose all colors and abilities) Create an X/X red and black Nightmare creature token with menace, where X is the combined mana value of those creatures.</text>
+    </card>
+    <card>
+      <name>CR07 Spunky Engineer</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Spunky Engineer enters, put two +1/+1 counters on target Vehicle you control.</text>
+    </card>
+    <card>
+      <name>UB03 Ami Ryoka, Mayor</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Citizen Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+Tap an untapped Citizen you control: Each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>RR08 Demiplanar Collapse</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target land. Demiplanar Collapse deals 3 damage to each creature that has one or more colors matching a type of mana that land could produce.</text>
+    </card>
+    <card>
+      <name>UZ04 Centennial Ritualist</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2R/G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Bard Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Centennial Ritualist enters, add X mana in any combination of colors, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>UW06 Keeper of the Seals</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Keeper of the Seals enters, exile target creature an opponent controls until Keeper of the Seals leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>CW07 Lady of Air</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Lady of Air attacks, choose a sentai from among creatures you control. Each creature in that sentai gains flying until end of turn. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CU02 Lady of Water</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Lady of Water attacks, up to one target creature gets -X/-0 until end of turn, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CR01 Lady of Fire</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Lady of Fire enters, it gets +X/+X until end of turn, where X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CG07 Lady of Earth</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Shaman </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Lady of Earth enters, put a +1/+1 counter on it for each creature in your sentai. (A sentai is up to one creature of each color.) (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>CB01 Deadly Nightmare</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch</text>
+    </card>
+    <card>
+      <name>CL03 The Realm of Sorcery</name>
+      <set rarity="common" splitterPath="/CL03 The Realm of Sorcery.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Realm of Sorcery enters tapped.
+{T}: Add {B}.
+4B, {T}: Transform The Realm of Sorcery. Activate only as a sorcery.
+---
+(Back): Kerovotz</text>
+      <related attach="transform">Kerovotz</related>
+    </card>
+    <card>
+      <name>Kerovotz</name>
+      <set rarity="common" splitterPath="/Kerovotz.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Kerovotz, each opponent discards a card.
+{T}: Add two mana of any one color.
+---
+(Front): CL03 The Realm of Sorcery</text>
+      <related attach="transform">CL03 The Realm of Sorcery</related>
+    </card>
+    <card>
+      <name>RL05 The Afterlife</name>
+      <set rarity="rare" splitterPath="/RL05 The Afterlife.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Demiplane </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>The Afterlife enters tapped.
+{T}: Add {W}, {B}, or {G}.
+2WBG, {T}: Transform The Afterlife.
+---
+(Back): Yamara</text>
+      <related attach="transform">Yamara</related>
+    </card>
+    <card>
+      <name>Yamara</name>
+      <set rarity="rare" splitterPath="/Yamara.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land - Demiplane </type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land transforms into Yamara, return target creature card from your graveyard to the battlefield tapped.
+{T}: Add two mana of any one color.
+---
+(Front): RL05 The Afterlife</text>
+      <related attach="transform">RL05 The Afterlife</related>
+    </card>
+    <card>
+      <name>RG07 World-Saver</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Vigilance, trample
+When World-Saver enters, prevent all damage other sources would deal this turn.</text>
+    </card>
+    <card>
+      <name>RU02 Hero Incognito</name>
+      <set rarity="rare" splitterPath="/RU02 Hero Incognito.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hexproof
+Whenever a creature with power 6 or greater attacks, you may transform Hero Incognito.
+---
+(Back): Hero Revealed</text>
+      <related attach="transform">Hero Revealed</related>
+    </card>
+    <card>
+      <name>Hero Revealed</name>
+      <set rarity="rare" splitterPath="/Hero Revealed.png" >PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature transforms into Hero Revealed, create blue Equipment artifact tokens named Wand and Costume attached to it, with “Equipped creature gets 3/+0” and “Equipped creature gets +0/+3” respectively. Both have equip {2}.
+---
+(Front): RU02 Hero Incognito</text>
+      <related attach="transform">RU02 Hero Incognito</related>
+    </card>
+    <card>
+      <name>CU13 Research Program</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Create a Weapon token. If you control an equipped creature or a Vehicle creature, you may attach that token to that creature.</text>
+    </card>
+    <card>
+      <name>CW15 Yamaran High Uniform</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature is colorless and has base power and toughness 3/3.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>CW01 Centennial Referee</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Bird Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Centennial Referee enters, you may blank a non-colorless creature you control. When you do, create a 0/3 colorless Wall creature token. (It loses all colors and abilities.)</text>
+    </card>
+    <card>
+      <name>CW12 Royal Restoration</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. Then return it to the battlefield under its owner’s control unless you pay {4}.</text>
+    </card>
+    <card>
+      <name>UW08 Proven Worthy</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — Arcadian Princess, Supportive Bystanders, Arcadia (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Enchant creature
+Enchanted creature gets +3/+3.
+Enchanted creature attacking causes abilities to trigger as though it entered the battlefield.</text>
+    </card>
+    <card>
+      <name>CU03 Lantalian Princess</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lantalian Princess enters, look at the top four cards of your library. You may reveal an artifact, Island, or Demiplane card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    </card>
+    <card>
+      <name>CU08 Pearl of Lantalia</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has ward {3}. (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Equip {1}</text>
+    </card>
+    <card>
+      <name>UU08 The Throne Beneath the Seas</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — Lantalian Princess, Pearl of Lantalia, Lantalia (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+At the beginning of combat on your turn, for each Equipment attached to equipped creature, create a 2/2 blue Merfolk Soldier creature token.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>CB04 Wish Granter</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Cat Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Wish Granter enters the battlefield, you may sacrifice another creature. If you do, each opponent loses life equal to its power and you gain life equal to its toughness.</text>
+    </card>
+    <card>
+      <name>RG08 Stoneslumber Tiger</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Hexproof, trample, indestructible, vigilance, reach, haste</text>
+    </card>
+    <card>
+      <name>UT05 Eager Familiar</name>
+      <set rarity="uncommon" splitterPath="/UT05 Eager Familiar.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Fox Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Until your next turn, target creature you control has base power equal to its base toughness and gains vigilance. Activate only as a sorcery.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Reluctant Hero</text>
+      <related attach="transform">Reluctant Hero</related>
+    </card>
+    <card>
+      <name>Reluctant Hero</name>
+      <set rarity="uncommon" splitterPath="/Reluctant Hero.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human </type>
+        <pt>1/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach, trample
+---
+(Front): UT05 Eager Familiar</text>
+      <related attach="transform">UT05 Eager Familiar</related>
+    </card>
+    <card>
+      <name>UT04 Masked Dragonrider</name>
+      <set rarity="uncommon" splitterPath="/UT04 Masked Dragonrider.png" >PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Crearure - Human Warrior</type>
+        <maintype>Crearure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+{T}: Add CC. Spend this mana only to activate abilities.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Cyberwyrm</text>
+      <related attach="transform">Cyberwyrm</related>
+    </card>
+    <card>
+      <name>Cyberwyrm</name>
+      <set rarity="uncommon" splitterPath="/Cyberwyrm.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Dragon </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{1}: Cyberwyrm gets +1/+0 until end of turn.
+---
+(Front): UT04 Masked Dragonrider</text>
+      <related attach="transform">UT04 Masked Dragonrider</related>
+    </card>
+    <card>
+      <name>RU03 Masked Rider</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Pilot </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Masked Rider crews a Vehicle, untap Masked Rider and it gets +2/+2 until end of turn. This ability triggers only once each turn.</text>
+    </card>
+    <card>
+      <name>UA04 Combining Weapon</name>
+      <set rarity="uncommon" splitterPath="/UA04 Combining Weapon.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equipped creature has first strike as long as it’s attacking.
+Sacrifice two Equipments: Transform Combining Weapon.
+Equip {1}
+---
+(Back): Combined Weapons</text>
+      <related attach="transform">Combined Weapons</related>
+    </card>
+    <card>
+      <name>Combined Weapons</name>
+      <set rarity="uncommon" splitterPath="/Combined Weapons.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3 and has double strike.
+Equip {1}
+---
+(Front): UA04 Combining Weapon</text>
+      <related attach="transform">UA04 Combining Weapon</related>
+    </card>
+    <card>
+      <name>RG02 People to Protect</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+{T}: Target player adds {G} if the total toughness of creatures they control is at least 4, draws a card if it’s at least 8, and create a token that’s a copy of People to Protect if it’s at least 16.</text>
+    </card>
+    <card>
+      <name>MR01 NAME, Naive Kid</name>
+      <set rarity="mythic" splitterPath="/MR01 NAME, Naive Kid.png" >PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1G: NAME, Naive Kid becomes a green and red Human Warrior with base power and toughness 3/3 until it transforms.
+2W: If NAME is green, transform it.
+---
+(Back): NAME, Ascendant Hero</text>
+      <related attach="transform">NAME, Ascendant Hero</related>
+    </card>
+    <card>
+      <name>NAME, Ascendant Hero</name>
+      <set rarity="mythic" splitterPath="/NAME, Ascendant Hero.png" >PRISM</set>
+      <prop>
+        <colors>WRG</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Human Cleric </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3U: NAME becomes a white, blue, red, and green Demigod with flying, hexproof, and vigilance.
+4B: If NAME is blue, it becomes a God that’s all colors with base power and toughness 20/20.
+---
+(Front): MR01 NAME, Naive Kid</text>
+      <related attach="transform">MR01 NAME, Naive Kid</related>
+    </card>
+    <card>
+      <name>UX09 The Prototype</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever UX09 The Prototype enters or attacks, look at the top card of your library. If it’s a Vehicle, Artificer, or Pilot card, you may reveal it and put it into your hand.
+Crew 3</text>
+    </card>
+    <card>
+      <name>RB03 Reluctant Villain</name>
+      <set rarity="rare" splitterPath="/RB03 Reluctant Villain.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+When Reluctant Villain dies, return it to the battlefield transformed under target opponent’s control.
+---
+(Back): Redeemed Heroine</text>
+      <related attach="transform">Redeemed Heroine</related>
+    </card>
+    <card>
+      <name>Redeemed Heroine</name>
+      <set rarity="rare" splitterPath="/Redeemed Heroine.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+---
+(Front): RB03 Reluctant Villain</text>
+      <related attach="transform">RB03 Reluctant Villain</related>
+    </card>
+    <card>
+      <name>RA02 Mid-Size Sedan</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Trample, haste
+Crew 1</text>
+    </card>
+    <card>
+      <name>RU08 Cursed Costume</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XU</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cursed Costume enters, search your library for a creature card with mana value X and exile it, then shuffle.
+Whenever Cursed Costume becomes attached to a creature, for as long as Cursed Costume remains attached to it, that creature becomes a copy of a creature card exiled with Cursed Costume.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>RX10 Ready to Rock</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>3RW</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Signature — Crystal Guitar, Crystal Keys, Crystal Voice, Crystal Drums (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Whenever a creature enters this turn, it gets +2/+0 and gains haste until end of turn.
+Exile any number of creatures you control, then return them to the battlefield under your control.</text>
+    </card>
+    <card>
+      <name>UU04 Robokaiju</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2U, Put Robokaiju from your hand into your library third from the top: Target noncreature artifact you control becomes a copy of Robokaiju. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>MG01 Hero Twins</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast Hero Twins, copy it.
+At the beginning of your upkeep, if you don’t control another creature named Hero Twins, create a token that’s a copy of Hero Twins.</text>
+    </card>
+    <card>
+      <name>RB07 A Bleak and Tiresome World</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with no abilities get +2/+0.
+Whenever a creature you control with no abilities dies, you gain life equal to its mana value.</text>
+    </card>
+    <card>
+      <name>RX05 Divine Prison</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>1GW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Divine Prison or another Wall you control enters, you may have that Wall fight target creature.
+Whenever a creature deals damage to a Wall you control, exile that creature until that Wall leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>UG01 Mentor Mascot</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Fox Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever Mentor Mascot attacks, put a +1/+1 counter on another target attacking creature.</text>
+    </card>
+    <card>
+      <name>UB01 Kerovotz Familiar</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Spirit Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on you turn, you may have another target creature you control gain lifelink, deathtouch, and “When this creature dies, draw a card” until end of turn.</text>
+    </card>
+    <card>
+      <name>UR07 Calling Your Attacks</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an instant or sorcery card and exile it. During your next turn, you may play that card.</text>
+    </card>
+    <card>
+      <name>UZ02 Silent Colossus</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>6U/B</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Horror </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, you may blank any number of non-colorless creatures you control. This spell costs {2} less to cast for each creature blanked this way.</text>
+    </card>
+    <card>
+      <name>MA03 Monument to the Heroes</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — John, Legendary Sunranger; Yu, Former Villain; Yumeko, Princess of Dream; Crystal Voice, Solo Act; NAME, Princess of Vorkezo (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+{T}: Add one mana of any color. Spend this mana only to cast legendary spells.</text>
+    </card>
+    <card>
+      <name>CB02 Treacherous Neighbors</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen Coward </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Treacherous Neighbors enters, you may sacrifice another creature. If you do, draw two cards.</text>
+    </card>
+    <card>
+      <name>CB10 Heroic Sacrifice</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature’s controller sacrifices another creature. If they can’t, destroy that creature.</text>
+    </card>
+    <card>
+      <name>RU01 Yu, Former Villain</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Yu, Former Villain attacks or blocks, draw a card for each creature in your sentai. Then discard three cards. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>RA03 Super Robot Galaxy Rise</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — Earthranger, Moonranger, Starranger, Sunranger, Voidranger (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Sacrifice a Vehicle: Put two +1/+1 counters on Super Robot Galaxy Rise. Then put that Vehicle’s counters on Super Robot Galaxy Rise.
+Crew 4</text>
+    </card>
+    <card>
+      <name>RX09 Mass-Produced Mecha</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>2UR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create four Mech tokens. (They’re 3/3 Vehicle artifacts with crew 2.)</text>
+    </card>
+    <card>
+      <name>UR03 Sunranger</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Pilot Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sunranger enters the battlefield, create a Mech token and put a haste counter on it. (It’s a 3/3 Vehicle artifact with crew 2.)</text>
+    </card>
+    <card>
+      <name>UU02 Moonranger</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Pilot Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Moonranger enters the battlefield, create a Mech token and put a flying counter on it. (It’s a 3/3 Vehicle artifact with crew 2.)</text>
+    </card>
+    <card>
+      <name>UW01 Starranger</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cat Pilot Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Starranger enters the battlefield, create a Mech token. (It’s a 3/3 Vehicle artifact with crew 2.)</text>
+    </card>
+    <card>
+      <name>UG02 Earthranger</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Pilot Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Earthranger enters the battlefield, create a Mech token and put three +1/+1 counters on it. (It’s a 3/3 Vehicle artifact with crew 2.)</text>
+    </card>
+    <card>
+      <name>UB06 Voidranger</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Pilot Ranger </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Voidranger enters the battlefield, create a Mech token and put a lifelink counter on it. (It’s a 3/3 Vehicle artifact with crew 2.)</text>
+    </card>
+    <card>
+      <name>UW03 Fanatical Fanartist</name>
+      <set rarity="uncommon" splitterPath="/UW03 Fanatical Fanartist.png" >PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Citizen Artist </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>5W: Transform Fanatical Fanartist. This ability costs {1} less to activate for each creature in your sentai. (A sentai is up to one creature of each color.)
+---
+(Back): Ascended Admirer</text>
+      <related attach="transform">Ascended Admirer</related>
+    </card>
+    <card>
+      <name>Ascended Admirer</name>
+      <set rarity="uncommon" splitterPath="/Ascended Admirer.png" >PRISM</set>
+      <prop>
+        <colors>WUBRG</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>
+---
+(Front): UW03 Fanatical Fanartist</text>
+      <related attach="transform">UW03 Fanatical Fanartist</related>
+    </card>
+    <card>
+      <name>UU03 Lantalian Emissary</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Lantalian Emissary enters, mill four cards. Return all noncreature, nonland cards milled this way to your hand.</text>
+    </card>
+    <card>
+      <name>RR06 Hapless Villain</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Hapless Villain attacks each combat if able.
+Whenever Hapless Villain attacks, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>RU05 Steal Souls</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UUU</manacost>
+        <cmc>7</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Blank up to three target creatures. For each creature blanked this way, create a token that’s a copy of it, except it’s a black Nightmare in addition to its other colors and types. (Blanked creatures lose all colors and abilities. The copies aren’t blanked.)</text>
+    </card>
+    <card>
+      <name>UB08 Pledge Your Soul</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Signature — Kerovotz, Wish-Granter, Ambitious Nobody (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Enchant creature
+Enchanted creature gets +3/+1 and has “When this creature dies, draw two cards and create a 1/1 black Cat Spirit creature token.”</text>
+    </card>
+    <card>
+      <name>UX08 Yu, MALICE Apprentice</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Yu, MALICE Apprentice enters, target noncreature artifact you control becomes a 3/3 Minion artifact creature.
+Minions you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>MX01 Elya, MALICE Eternal</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>UBG</colors>
+        <manacost>3BGU</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Signature — Kei, MALICE Future; Kara, MALICE Past; Kass, MALICE Present; Yu, MALICE Apprentice (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+When MX01 Elya, MALICE Eternal enters, create three Treasure tokens, three Clue tokens, and three 1/1 black Minion creature tokens.</text>
+    </card>
+    <card>
+      <name>RB04 Kass, MALICE Present</name>
+      <set rarity="rare" splitterPath="/RB04 Kass, MALICE Present.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice a creature: Kass gets +X/+X until end of turn, where X was that creature’s power. If that creature was a Minion, put X +1/+1 counters on Kass instead. Activate only as a sorcery.
+Team (Cast either side or both. When you cast both, the back is a token.)
+---
+(Back): Dozens of Minions</text>
+      <related attach="transform">Dozens of Minions</related>
+    </card>
+    <card>
+      <name>Dozens of Minions</name>
+      <set rarity="rare" splitterPath="/Dozens of Minions.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Minion </type>
+        <pt>4/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Dozens of Minions dies, create A Handful of Minions, a 2/1 black Minion creature token with “When this creature dies, create a 1/1 black Minion creature token.”
+---
+(Front): RB04 Kass, MALICE Present</text>
+      <related attach="transform">RB04 Kass, MALICE Present</related>
+    </card>
+    <card>
+      <name>RB01 Yumeko, Princess of Dream</name>
+      <set rarity="rare">PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Creature - Human Nightmare </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another legendary creature you control dies, return it to the battlefield face down. It’s a 2/2 creature.
+{B}, {T}: Turn target face-down creature you control face up.</text>
+    </card>
+    <card>
+      <name>UZ08 MALICE Charm</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>G/U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Investigate.
+• Target noncreature artifact becomes a 4/4 blue and green Minion creature in addition to its other types until end of turn.
+• Sacrifice any number of Minions. Create an X/X blue and green Minion artifact creature token, where X is their combined power.</text>
+    </card>
+    <card>
+      <name>MB02 Part-Time Shinigami</name>
+      <set rarity="mythic" splitterPath="/MB02 Part-Time Shinigami.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Part-Time Shinigami dies, return it to the battlefield transformed.
+---
+(Back): Reaper of Souls</text>
+      <related attach="transform">Reaper of Souls</related>
+    </card>
+    <card>
+      <name>Reaper of Souls</name>
+      <set rarity="mythic" splitterPath="/Reaper of Souls.png" >PRISM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Cleric Samurai </type>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Indestructible, menace, haste
+If a creature dealt damage by Reaper of Souls this turn would die, exile it instead.
+At the beginning of your end step, transform Reaper of Souls.
+---
+(Front): MB02 Part-Time Shinigami</text>
+      <related attach="transform">MB02 Part-Time Shinigami</related>
+    </card>
+    <card>
+      <name>CG01 Living Lunch</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Food Boar </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Living Lunch enters the battlefield, create a Food token.
+{2}, {T}, Sacrifice Living Lunch: You gain 3 life.</text>
+    </card>
+    <card>
+      <name>CG06 Spiderburger</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Food Spider </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+{T}, Sacrifice Spiderburger: You gain 3 life. Create a Food token and a Clue token.</text>
+    </card>
+    <card>
+      <name>UG04 Croissant Crabs</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create three Food tokens. Then choose up to X noncreature artifacts you control. Those artifacts become 2/2 blue Crab Minion creatures in addition to their other types.</text>
+    </card>
+    <card>
+      <name>UA06 Transformation Trinket</name>
+      <set rarity="uncommon" splitterPath="/UA06 Transformation Trinket.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add CC. Spend this mana only to activate abilities.
+Whenever a permanent you control transforms into a creature, you may transform Transformation Trinket and attach it to that creature.
+---
+(Back): Mahou Costume</text>
+      <related attach="transform">Mahou Costume</related>
+    </card>
+    <card>
+      <name>Mahou Costume</name>
+      <set rarity="uncommon" splitterPath="/Mahou Costume.png" >PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+3.
+At the beginning of each combat, untap equipped creature.
+When Mahou Costume becomes unattached, transform it.
+---
+(Front): UA06 Transformation Trinket</text>
+      <related attach="transform">UA06 Transformation Trinket</related>
+    </card>
+    <card>
+      <name>MX03 Malazoga, the Secret Spell</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors>WUB</colors>
+        <manacost>3WUB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Signature — Alabaster Witch, Cerulean Witch, Tenebrous Witch (Put your chosen signature into your hand from outside the game when you control two of its named cards.)
+Draw X cards and gain X life. Each opponent discards X cards and loses X life. X is the number of creatures in your sentai. (A sentai is up to one creature of each color.)</text>
+    </card>
+    <card>
+      <name>MX04</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>MX05</name>
+      <set rarity="mythic">PRISM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>UR01 Passionate Painter</name>
+      <set rarity="uncommon">PRISM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Artist </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Passionate Painter attacks, add {R}. Until end of turn, you don’t lose this mana as steps and phases end.</text>
+    </card>
+    <card>
+      <name>CW03 Dragonfriend</name>
+      <set rarity="common">PRISM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Bystander (Can’t attack or block.)
+When Dragonfriend enters the battlefield, draw a card. Then if you control three or more Citizens, create a 3/3 red Dragon creature token with flying.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
